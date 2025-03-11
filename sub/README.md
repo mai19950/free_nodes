@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-12 03:41:07
+> Updated Time: 2025-03-12 03:46:27
 
 - **tolinkshare2**
-  - **clash**: [*https://gWoAPX.tosslk.xyz/1af8fa778387340b9a79231f2ab0095a*](https://gWoAPX.tosslk.xyz/1af8fa778387340b9a79231f2ab0095a)
-  - **v2ray**: [*https://gWoAPX.tosslk.xyz/1af8fa778387340b9a79231f2ab0095a*](https://gWoAPX.tosslk.xyz/1af8fa778387340b9a79231f2ab0095a)
-  - **ios**: [*https://gWoAPX.tosslk.xyz/1af8fa778387340b9a79231f2ab0095a*](https://gWoAPX.tosslk.xyz/1af8fa778387340b9a79231f2ab0095a)
+  - **clash**: [*https://GjMd0Y.tosslk.xyz/2f33285b7767f583fa26564f1e606561*](https://GjMd0Y.tosslk.xyz/2f33285b7767f583fa26564f1e606561)
+  - **v2ray**: [*https://GjMd0Y.tosslk.xyz/2f33285b7767f583fa26564f1e606561*](https://GjMd0Y.tosslk.xyz/2f33285b7767f583fa26564f1e606561)
+  - **ios**: [*https://GjMd0Y.tosslk.xyz/2f33285b7767f583fa26564f1e606561*](https://GjMd0Y.tosslk.xyz/2f33285b7767f583fa26564f1e606561)
 - **abshare**
   - **clash**: [*https://BG50Jt.absslk.xyz/b02c2bfaccdb904e14be68fdbfd56de8*](https://BG50Jt.absslk.xyz/b02c2bfaccdb904e14be68fdbfd56de8)
   - **v2ray**: [*https://BG50Jt.absslk.xyz/b02c2bfaccdb904e14be68fdbfd56de8*](https://BG50Jt.absslk.xyz/b02c2bfaccdb904e14be68fdbfd56de8)
