@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-12 22:47:55
+> Updated Time: 2025-03-12 22:53:18
 
 - **tolinkshare2**
-  - **clash**: [*https://Wxn6rZ.tosslk.xyz/41d52eecb2650aea733df1ad76be4968*](https://Wxn6rZ.tosslk.xyz/41d52eecb2650aea733df1ad76be4968)
-  - **v2ray**: [*https://Wxn6rZ.tosslk.xyz/41d52eecb2650aea733df1ad76be4968*](https://Wxn6rZ.tosslk.xyz/41d52eecb2650aea733df1ad76be4968)
-  - **ios**: [*https://Wxn6rZ.tosslk.xyz/41d52eecb2650aea733df1ad76be4968*](https://Wxn6rZ.tosslk.xyz/41d52eecb2650aea733df1ad76be4968)
+  - **clash**: [*https://Ro7eVH.tosslk.xyz/25f5fd69e8457dbbf41314cd20ea0eec*](https://Ro7eVH.tosslk.xyz/25f5fd69e8457dbbf41314cd20ea0eec)
+  - **v2ray**: [*https://Ro7eVH.tosslk.xyz/25f5fd69e8457dbbf41314cd20ea0eec*](https://Ro7eVH.tosslk.xyz/25f5fd69e8457dbbf41314cd20ea0eec)
+  - **ios**: [*https://Ro7eVH.tosslk.xyz/25f5fd69e8457dbbf41314cd20ea0eec*](https://Ro7eVH.tosslk.xyz/25f5fd69e8457dbbf41314cd20ea0eec)
 - **abshare**
   - **clash**: [*https://hxhrEm.absslk.xyz/a7d159cd7a8790cf52ad253c471a78a8*](https://hxhrEm.absslk.xyz/a7d159cd7a8790cf52ad253c471a78a8)
   - **v2ray**: [*https://hxhrEm.absslk.xyz/a7d159cd7a8790cf52ad253c471a78a8*](https://hxhrEm.absslk.xyz/a7d159cd7a8790cf52ad253c471a78a8)
