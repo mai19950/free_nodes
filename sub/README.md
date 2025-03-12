@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-13 00:42:06
+> Updated Time: 2025-03-13 00:52:21
 
 - **tolinkshare2**
-  - **clash**: [*https://XGr8Ae.tosslk.xyz/a2e2199ef045b21964b7e4a72dd08396*](https://XGr8Ae.tosslk.xyz/a2e2199ef045b21964b7e4a72dd08396)
-  - **v2ray**: [*https://XGr8Ae.tosslk.xyz/a2e2199ef045b21964b7e4a72dd08396*](https://XGr8Ae.tosslk.xyz/a2e2199ef045b21964b7e4a72dd08396)
-  - **ios**: [*https://XGr8Ae.tosslk.xyz/a2e2199ef045b21964b7e4a72dd08396*](https://XGr8Ae.tosslk.xyz/a2e2199ef045b21964b7e4a72dd08396)
+  - **clash**: [*https://fvVcg6.tosslk.xyz/9cf2741b7f62b450eb187176b02aa77c*](https://fvVcg6.tosslk.xyz/9cf2741b7f62b450eb187176b02aa77c)
+  - **v2ray**: [*https://fvVcg6.tosslk.xyz/9cf2741b7f62b450eb187176b02aa77c*](https://fvVcg6.tosslk.xyz/9cf2741b7f62b450eb187176b02aa77c)
+  - **ios**: [*https://fvVcg6.tosslk.xyz/9cf2741b7f62b450eb187176b02aa77c*](https://fvVcg6.tosslk.xyz/9cf2741b7f62b450eb187176b02aa77c)
 - **abshare**
   - **clash**: [*https://jHS9Hx.absslk.xyz/b3d485f95fede9ae3d48a1251e948d69*](https://jHS9Hx.absslk.xyz/b3d485f95fede9ae3d48a1251e948d69)
   - **v2ray**: [*https://jHS9Hx.absslk.xyz/b3d485f95fede9ae3d48a1251e948d69*](https://jHS9Hx.absslk.xyz/b3d485f95fede9ae3d48a1251e948d69)
