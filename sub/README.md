@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-13 21:39:59
+> Updated Time: 2025-03-13 22:10:08
 
 - **tolinkshare2**
-  - **clash**: [*https://T3iHzd.tosslk.xyz/1d1b68a026c9b7329b2b46d8bc8a70a8*](https://T3iHzd.tosslk.xyz/1d1b68a026c9b7329b2b46d8bc8a70a8)
-  - **v2ray**: [*https://T3iHzd.tosslk.xyz/1d1b68a026c9b7329b2b46d8bc8a70a8*](https://T3iHzd.tosslk.xyz/1d1b68a026c9b7329b2b46d8bc8a70a8)
-  - **ios**: [*https://T3iHzd.tosslk.xyz/1d1b68a026c9b7329b2b46d8bc8a70a8*](https://T3iHzd.tosslk.xyz/1d1b68a026c9b7329b2b46d8bc8a70a8)
+  - **clash**: [*https://qxalVJ.tosslk.xyz/871fd9a6e75613fa34ab700941d1193a*](https://qxalVJ.tosslk.xyz/871fd9a6e75613fa34ab700941d1193a)
+  - **v2ray**: [*https://qxalVJ.tosslk.xyz/871fd9a6e75613fa34ab700941d1193a*](https://qxalVJ.tosslk.xyz/871fd9a6e75613fa34ab700941d1193a)
+  - **ios**: [*https://qxalVJ.tosslk.xyz/871fd9a6e75613fa34ab700941d1193a*](https://qxalVJ.tosslk.xyz/871fd9a6e75613fa34ab700941d1193a)
 - **abshare**
   - **clash**: [*https://f8kwyw.absslk.xyz/6ce3395220a23fe405921b9b4d27e949*](https://f8kwyw.absslk.xyz/6ce3395220a23fe405921b9b4d27e949)
   - **v2ray**: [*https://f8kwyw.absslk.xyz/6ce3395220a23fe405921b9b4d27e949*](https://f8kwyw.absslk.xyz/6ce3395220a23fe405921b9b4d27e949)
