@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-13 15:50:13
+> Updated Time: 2025-03-13 16:24:22
 
 - **tolinkshare2**
   - **clash**: [*https://2y2MVp.tosslk.xyz/879fd55ee20b2d305334540e530eba1f*](https://2y2MVp.tosslk.xyz/879fd55ee20b2d305334540e530eba1f)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://qO5rDP.absslk.xyz/4d2294443ad6c8ed9aa597f27bef1993*](https://qO5rDP.absslk.xyz/4d2294443ad6c8ed9aa597f27bef1993)
   - **ios**: [*https://qO5rDP.absslk.xyz/4d2294443ad6c8ed9aa597f27bef1993*](https://qO5rDP.absslk.xyz/4d2294443ad6c8ed9aa597f27bef1993)
 - **mksshare**
-  - **clash**: [*https://34eGNe.mcsslk.xyz/8213ad3be2ea612ab7f2eb5ffef28094*](https://34eGNe.mcsslk.xyz/8213ad3be2ea612ab7f2eb5ffef28094)
-  - **v2ray**: [*https://34eGNe.mcsslk.xyz/8213ad3be2ea612ab7f2eb5ffef28094*](https://34eGNe.mcsslk.xyz/8213ad3be2ea612ab7f2eb5ffef28094)
-  - **ios**: [*https://34eGNe.mcsslk.xyz/8213ad3be2ea612ab7f2eb5ffef28094*](https://34eGNe.mcsslk.xyz/8213ad3be2ea612ab7f2eb5ffef28094)
+  - **clash**: [*https://3Vizpn.mcsslk.xyz/b540ae85840a3cfa9a78054892a61160*](https://3Vizpn.mcsslk.xyz/b540ae85840a3cfa9a78054892a61160)
+  - **v2ray**: [*https://3Vizpn.mcsslk.xyz/b540ae85840a3cfa9a78054892a61160*](https://3Vizpn.mcsslk.xyz/b540ae85840a3cfa9a78054892a61160)
+  - **ios**: [*https://3Vizpn.mcsslk.xyz/b540ae85840a3cfa9a78054892a61160*](https://3Vizpn.mcsslk.xyz/b540ae85840a3cfa9a78054892a61160)
 - **mkshare3**
   - **clash**: [*https://SUylBn.mcsslk.xyz/51c8cb9a9e7d38b555e4852625684247*](https://SUylBn.mcsslk.xyz/51c8cb9a9e7d38b555e4852625684247)
   - **v2ray**: [*https://SUylBn.mcsslk.xyz/51c8cb9a9e7d38b555e4852625684247*](https://SUylBn.mcsslk.xyz/51c8cb9a9e7d38b555e4852625684247)
