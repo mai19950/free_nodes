@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-16 02:34:08
+> Updated Time: 2025-03-16 02:44:46
 
 - **tolinkshare2**
   - **clash**: [*https://Vjp7vD.tosslk.xyz/7231d1c976a1e547d2a2b9cac028e2dc*](https://Vjp7vD.tosslk.xyz/7231d1c976a1e547d2a2b9cac028e2dc)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://AOi0Jw.tosslk.xyz/2f8014b68838bfa892196a7da65365b1*](https://AOi0Jw.tosslk.xyz/2f8014b68838bfa892196a7da65365b1)
   - **ios**: [*https://AOi0Jw.tosslk.xyz/2f8014b68838bfa892196a7da65365b1*](https://AOi0Jw.tosslk.xyz/2f8014b68838bfa892196a7da65365b1)
 - **abshare3**
-  - **clash**: [*https://jWufAR.absslk.xyz/3f0d81a50374d8d56689ffc5243ac16c*](https://jWufAR.absslk.xyz/3f0d81a50374d8d56689ffc5243ac16c)
-  - **v2ray**: [*https://jWufAR.absslk.xyz/3f0d81a50374d8d56689ffc5243ac16c*](https://jWufAR.absslk.xyz/3f0d81a50374d8d56689ffc5243ac16c)
-  - **ios**: [*https://jWufAR.absslk.xyz/3f0d81a50374d8d56689ffc5243ac16c*](https://jWufAR.absslk.xyz/3f0d81a50374d8d56689ffc5243ac16c)
+  - **clash**: [*https://sjxfrx.absslk.xyz/4ddc2d8af1f29b755ed648c4940188fa*](https://sjxfrx.absslk.xyz/4ddc2d8af1f29b755ed648c4940188fa)
+  - **v2ray**: [*https://sjxfrx.absslk.xyz/4ddc2d8af1f29b755ed648c4940188fa*](https://sjxfrx.absslk.xyz/4ddc2d8af1f29b755ed648c4940188fa)
+  - **ios**: [*https://sjxfrx.absslk.xyz/4ddc2d8af1f29b755ed648c4940188fa*](https://sjxfrx.absslk.xyz/4ddc2d8af1f29b755ed648c4940188fa)
