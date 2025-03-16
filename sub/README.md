@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-17 00:30:30
+> Updated Time: 2025-03-17 00:43:07
 
 - **tolinkshare2**
-  - **clash**: [*https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6*](https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6)
-  - **v2ray**: [*https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6*](https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6)
-  - **ios**: [*https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6*](https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6)
+  - **clash**: [*https://bInFB5.tosslk.xyz/d6181523e3bc0776e8f363381c1687e5*](https://bInFB5.tosslk.xyz/d6181523e3bc0776e8f363381c1687e5)
+  - **v2ray**: [*https://bInFB5.tosslk.xyz/d6181523e3bc0776e8f363381c1687e5*](https://bInFB5.tosslk.xyz/d6181523e3bc0776e8f363381c1687e5)
+  - **ios**: [*https://bInFB5.tosslk.xyz/d6181523e3bc0776e8f363381c1687e5*](https://bInFB5.tosslk.xyz/d6181523e3bc0776e8f363381c1687e5)
 - **abshare**
   - **clash**: [*https://V3Yjh3.absslk.xyz/0c6fe53ec2f42912083a178836a6d53e*](https://V3Yjh3.absslk.xyz/0c6fe53ec2f42912083a178836a6d53e)
   - **v2ray**: [*https://V3Yjh3.absslk.xyz/0c6fe53ec2f42912083a178836a6d53e*](https://V3Yjh3.absslk.xyz/0c6fe53ec2f42912083a178836a6d53e)
