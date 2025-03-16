@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-16 23:51:23
+> Updated Time: 2025-03-16 23:56:23
 
 - **tolinkshare2**
   - **clash**: [*https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6*](https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6)
   - **v2ray**: [*https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6*](https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6)
   - **ios**: [*https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6*](https://APt5Sl.tosslk.xyz/00c30d7d0a670e3e013d00d71d373ec6)
 - **abshare**
-  - **clash**: [*https://eJ2Q2r.absslk.xyz/b6d890510751d6ee99bd783effc347f7*](https://eJ2Q2r.absslk.xyz/b6d890510751d6ee99bd783effc347f7)
-  - **v2ray**: [*https://eJ2Q2r.absslk.xyz/b6d890510751d6ee99bd783effc347f7*](https://eJ2Q2r.absslk.xyz/b6d890510751d6ee99bd783effc347f7)
-  - **ios**: [*https://eJ2Q2r.absslk.xyz/b6d890510751d6ee99bd783effc347f7*](https://eJ2Q2r.absslk.xyz/b6d890510751d6ee99bd783effc347f7)
+  - **clash**: [*https://uLA3Zi.absslk.xyz/23e3d6638e50172a1ede4115e18b98e1*](https://uLA3Zi.absslk.xyz/23e3d6638e50172a1ede4115e18b98e1)
+  - **v2ray**: [*https://uLA3Zi.absslk.xyz/23e3d6638e50172a1ede4115e18b98e1*](https://uLA3Zi.absslk.xyz/23e3d6638e50172a1ede4115e18b98e1)
+  - **ios**: [*https://uLA3Zi.absslk.xyz/23e3d6638e50172a1ede4115e18b98e1*](https://uLA3Zi.absslk.xyz/23e3d6638e50172a1ede4115e18b98e1)
 - **mksshare**
   - **clash**: [*https://LTmsIs.mcsslk.xyz/6555bc5227050dfe69da697e52145255*](https://LTmsIs.mcsslk.xyz/6555bc5227050dfe69da697e52145255)
   - **v2ray**: [*https://LTmsIs.mcsslk.xyz/6555bc5227050dfe69da697e52145255*](https://LTmsIs.mcsslk.xyz/6555bc5227050dfe69da697e52145255)
