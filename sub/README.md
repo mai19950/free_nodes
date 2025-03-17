@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-17 23:42:10
+> Updated Time: 2025-03-17 23:47:26
 
 - **tolinkshare2**
-  - **clash**: [*https://CpsweE.tosslk.xyz/99282665e381b1d30d85287c215d5ea8*](https://CpsweE.tosslk.xyz/99282665e381b1d30d85287c215d5ea8)
-  - **v2ray**: [*https://CpsweE.tosslk.xyz/99282665e381b1d30d85287c215d5ea8*](https://CpsweE.tosslk.xyz/99282665e381b1d30d85287c215d5ea8)
-  - **ios**: [*https://CpsweE.tosslk.xyz/99282665e381b1d30d85287c215d5ea8*](https://CpsweE.tosslk.xyz/99282665e381b1d30d85287c215d5ea8)
+  - **clash**: [*https://PlbnJP.tosslk.xyz/9c406d477aae271c532dcefb7dc24a8e*](https://PlbnJP.tosslk.xyz/9c406d477aae271c532dcefb7dc24a8e)
+  - **v2ray**: [*https://PlbnJP.tosslk.xyz/9c406d477aae271c532dcefb7dc24a8e*](https://PlbnJP.tosslk.xyz/9c406d477aae271c532dcefb7dc24a8e)
+  - **ios**: [*https://PlbnJP.tosslk.xyz/9c406d477aae271c532dcefb7dc24a8e*](https://PlbnJP.tosslk.xyz/9c406d477aae271c532dcefb7dc24a8e)
 - **abshare**
   - **clash**: [*https://btjd71.absslk.xyz/0092062d5abddd37628ca73782512f63*](https://btjd71.absslk.xyz/0092062d5abddd37628ca73782512f63)
   - **v2ray**: [*https://btjd71.absslk.xyz/0092062d5abddd37628ca73782512f63*](https://btjd71.absslk.xyz/0092062d5abddd37628ca73782512f63)
