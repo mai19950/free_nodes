@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-18 00:51:59
+> Updated Time: 2025-03-18 01:10:49
 
 - **tolinkshare2**
   - **clash**: [*https://Ca5HEh.tosslk.xyz/df93363a5312b77c18a3d62976ef3e65*](https://Ca5HEh.tosslk.xyz/df93363a5312b77c18a3d62976ef3e65)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://FUqS8N.tosslk.xyz/065447ddba6e7cf14d453d2a82c7aea4*](https://FUqS8N.tosslk.xyz/065447ddba6e7cf14d453d2a82c7aea4)
   - **ios**: [*https://FUqS8N.tosslk.xyz/065447ddba6e7cf14d453d2a82c7aea4*](https://FUqS8N.tosslk.xyz/065447ddba6e7cf14d453d2a82c7aea4)
 - **abshare3**
-  - **clash**: [*https://XfuUmw.absslk.xyz/10f47cc7c922ef3d113ec9c6bcfc14d3*](https://XfuUmw.absslk.xyz/10f47cc7c922ef3d113ec9c6bcfc14d3)
-  - **v2ray**: [*https://XfuUmw.absslk.xyz/10f47cc7c922ef3d113ec9c6bcfc14d3*](https://XfuUmw.absslk.xyz/10f47cc7c922ef3d113ec9c6bcfc14d3)
-  - **ios**: [*https://XfuUmw.absslk.xyz/10f47cc7c922ef3d113ec9c6bcfc14d3*](https://XfuUmw.absslk.xyz/10f47cc7c922ef3d113ec9c6bcfc14d3)
+  - **clash**: [*https://pbeFqU.absslk.xyz/f9317121077fb6950c6448565816fe9f*](https://pbeFqU.absslk.xyz/f9317121077fb6950c6448565816fe9f)
+  - **v2ray**: [*https://pbeFqU.absslk.xyz/f9317121077fb6950c6448565816fe9f*](https://pbeFqU.absslk.xyz/f9317121077fb6950c6448565816fe9f)
+  - **ios**: [*https://pbeFqU.absslk.xyz/f9317121077fb6950c6448565816fe9f*](https://pbeFqU.absslk.xyz/f9317121077fb6950c6448565816fe9f)
