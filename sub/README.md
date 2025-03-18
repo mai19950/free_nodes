@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-18 21:39:50
+> Updated Time: 2025-03-18 21:47:09
 
 - **tolinkshare2**
-  - **clash**: [*https://XivFI0.tosslk.xyz/6731046ccec34f259f67e3f9c888505b*](https://XivFI0.tosslk.xyz/6731046ccec34f259f67e3f9c888505b)
-  - **v2ray**: [*https://XivFI0.tosslk.xyz/6731046ccec34f259f67e3f9c888505b*](https://XivFI0.tosslk.xyz/6731046ccec34f259f67e3f9c888505b)
-  - **ios**: [*https://XivFI0.tosslk.xyz/6731046ccec34f259f67e3f9c888505b*](https://XivFI0.tosslk.xyz/6731046ccec34f259f67e3f9c888505b)
+  - **clash**: [*https://sdgN7g.tosslk.xyz/74fda0830a1821bfba96ff6ea8847f0c*](https://sdgN7g.tosslk.xyz/74fda0830a1821bfba96ff6ea8847f0c)
+  - **v2ray**: [*https://sdgN7g.tosslk.xyz/74fda0830a1821bfba96ff6ea8847f0c*](https://sdgN7g.tosslk.xyz/74fda0830a1821bfba96ff6ea8847f0c)
+  - **ios**: [*https://sdgN7g.tosslk.xyz/74fda0830a1821bfba96ff6ea8847f0c*](https://sdgN7g.tosslk.xyz/74fda0830a1821bfba96ff6ea8847f0c)
 - **abshare**
-  - **clash**: [*https://MYmTze.absslk.xyz/974f8b78309547ccea18ab2f8f7213fd*](https://MYmTze.absslk.xyz/974f8b78309547ccea18ab2f8f7213fd)
-  - **v2ray**: [*https://MYmTze.absslk.xyz/974f8b78309547ccea18ab2f8f7213fd*](https://MYmTze.absslk.xyz/974f8b78309547ccea18ab2f8f7213fd)
-  - **ios**: [*https://MYmTze.absslk.xyz/974f8b78309547ccea18ab2f8f7213fd*](https://MYmTze.absslk.xyz/974f8b78309547ccea18ab2f8f7213fd)
+  - **clash**: [*https://42YSR6.absslk.xyz/86d4eec9356bf663c632949f5c600578*](https://42YSR6.absslk.xyz/86d4eec9356bf663c632949f5c600578)
+  - **v2ray**: [*https://42YSR6.absslk.xyz/86d4eec9356bf663c632949f5c600578*](https://42YSR6.absslk.xyz/86d4eec9356bf663c632949f5c600578)
+  - **ios**: [*https://42YSR6.absslk.xyz/86d4eec9356bf663c632949f5c600578*](https://42YSR6.absslk.xyz/86d4eec9356bf663c632949f5c600578)
 - **mksshare**
   - **clash**: [*https://MozHpn.mcsslk.xyz/266e0a9da2b2785bb41a4e637b278a2f*](https://MozHpn.mcsslk.xyz/266e0a9da2b2785bb41a4e637b278a2f)
   - **v2ray**: [*https://MozHpn.mcsslk.xyz/266e0a9da2b2785bb41a4e637b278a2f*](https://MozHpn.mcsslk.xyz/266e0a9da2b2785bb41a4e637b278a2f)
