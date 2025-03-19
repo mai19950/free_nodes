@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-19 16:55:44
+> Updated Time: 2025-03-19 17:09:16
 
 - **tolinkshare2**
-  - **clash**: [*https://vC09o8.tosslk.xyz/03c3fbf5272ab38d08679b43e782bbcc*](https://vC09o8.tosslk.xyz/03c3fbf5272ab38d08679b43e782bbcc)
-  - **v2ray**: [*https://vC09o8.tosslk.xyz/03c3fbf5272ab38d08679b43e782bbcc*](https://vC09o8.tosslk.xyz/03c3fbf5272ab38d08679b43e782bbcc)
-  - **ios**: [*https://vC09o8.tosslk.xyz/03c3fbf5272ab38d08679b43e782bbcc*](https://vC09o8.tosslk.xyz/03c3fbf5272ab38d08679b43e782bbcc)
+  - **clash**: [*https://W5IFEn.tosslk.xyz/284480a85cd5983803b98f6490d74ee5*](https://W5IFEn.tosslk.xyz/284480a85cd5983803b98f6490d74ee5)
+  - **v2ray**: [*https://W5IFEn.tosslk.xyz/284480a85cd5983803b98f6490d74ee5*](https://W5IFEn.tosslk.xyz/284480a85cd5983803b98f6490d74ee5)
+  - **ios**: [*https://W5IFEn.tosslk.xyz/284480a85cd5983803b98f6490d74ee5*](https://W5IFEn.tosslk.xyz/284480a85cd5983803b98f6490d74ee5)
 - **abshare**
-  - **clash**: [*https://MdHPdo.absslk.xyz/f1010fe4d21d0bf138d7b8ea65360cec*](https://MdHPdo.absslk.xyz/f1010fe4d21d0bf138d7b8ea65360cec)
-  - **v2ray**: [*https://MdHPdo.absslk.xyz/f1010fe4d21d0bf138d7b8ea65360cec*](https://MdHPdo.absslk.xyz/f1010fe4d21d0bf138d7b8ea65360cec)
-  - **ios**: [*https://MdHPdo.absslk.xyz/f1010fe4d21d0bf138d7b8ea65360cec*](https://MdHPdo.absslk.xyz/f1010fe4d21d0bf138d7b8ea65360cec)
+  - **clash**: [*https://gUeSE9.absslk.xyz/4d65b6a19a0e8b714f7589b72f4c5e7d*](https://gUeSE9.absslk.xyz/4d65b6a19a0e8b714f7589b72f4c5e7d)
+  - **v2ray**: [*https://gUeSE9.absslk.xyz/4d65b6a19a0e8b714f7589b72f4c5e7d*](https://gUeSE9.absslk.xyz/4d65b6a19a0e8b714f7589b72f4c5e7d)
+  - **ios**: [*https://gUeSE9.absslk.xyz/4d65b6a19a0e8b714f7589b72f4c5e7d*](https://gUeSE9.absslk.xyz/4d65b6a19a0e8b714f7589b72f4c5e7d)
 - **mksshare**
   - **clash**: [*https://LQSIq4.mcsslk.xyz/035915d56c12c693da2005449b273116*](https://LQSIq4.mcsslk.xyz/035915d56c12c693da2005449b273116)
   - **v2ray**: [*https://LQSIq4.mcsslk.xyz/035915d56c12c693da2005449b273116*](https://LQSIq4.mcsslk.xyz/035915d56c12c693da2005449b273116)
