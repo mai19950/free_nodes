@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-19 19:28:43
+> Updated Time: 2025-03-19 19:46:15
 
 - **tolinkshare2**
   - **clash**: [*https://kEe75h.tosslk.xyz/d935684af0206f2c01cd7f4f6d397e9e*](https://kEe75h.tosslk.xyz/d935684af0206f2c01cd7f4f6d397e9e)
   - **v2ray**: [*https://kEe75h.tosslk.xyz/d935684af0206f2c01cd7f4f6d397e9e*](https://kEe75h.tosslk.xyz/d935684af0206f2c01cd7f4f6d397e9e)
   - **ios**: [*https://kEe75h.tosslk.xyz/d935684af0206f2c01cd7f4f6d397e9e*](https://kEe75h.tosslk.xyz/d935684af0206f2c01cd7f4f6d397e9e)
 - **abshare**
-  - **clash**: [*https://TapduK.absslk.xyz/42a55eb446d70ba973a15aef2f65822f*](https://TapduK.absslk.xyz/42a55eb446d70ba973a15aef2f65822f)
-  - **v2ray**: [*https://TapduK.absslk.xyz/42a55eb446d70ba973a15aef2f65822f*](https://TapduK.absslk.xyz/42a55eb446d70ba973a15aef2f65822f)
-  - **ios**: [*https://TapduK.absslk.xyz/42a55eb446d70ba973a15aef2f65822f*](https://TapduK.absslk.xyz/42a55eb446d70ba973a15aef2f65822f)
+  - **clash**: [*https://3KYxTN.absslk.xyz/12fcd4ffb649b098343146bc3df53952*](https://3KYxTN.absslk.xyz/12fcd4ffb649b098343146bc3df53952)
+  - **v2ray**: [*https://3KYxTN.absslk.xyz/12fcd4ffb649b098343146bc3df53952*](https://3KYxTN.absslk.xyz/12fcd4ffb649b098343146bc3df53952)
+  - **ios**: [*https://3KYxTN.absslk.xyz/12fcd4ffb649b098343146bc3df53952*](https://3KYxTN.absslk.xyz/12fcd4ffb649b098343146bc3df53952)
 - **mksshare**
   - **clash**: [*https://VY1mqP.mcsslk.xyz/034472e63344eb2d97ce3971b97c2f09*](https://VY1mqP.mcsslk.xyz/034472e63344eb2d97ce3971b97c2f09)
   - **v2ray**: [*https://VY1mqP.mcsslk.xyz/034472e63344eb2d97ce3971b97c2f09*](https://VY1mqP.mcsslk.xyz/034472e63344eb2d97ce3971b97c2f09)
