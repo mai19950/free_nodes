@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-19 13:31:02
+> Updated Time: 2025-03-19 14:13:50
 
 - **tolinkshare2**
-  - **clash**: [*https://IOfBjK.tosslk.xyz/ec66a2be8518291dfa03b767f846ec23*](https://IOfBjK.tosslk.xyz/ec66a2be8518291dfa03b767f846ec23)
-  - **v2ray**: [*https://IOfBjK.tosslk.xyz/ec66a2be8518291dfa03b767f846ec23*](https://IOfBjK.tosslk.xyz/ec66a2be8518291dfa03b767f846ec23)
-  - **ios**: [*https://IOfBjK.tosslk.xyz/ec66a2be8518291dfa03b767f846ec23*](https://IOfBjK.tosslk.xyz/ec66a2be8518291dfa03b767f846ec23)
+  - **clash**: [*https://QG3ZXd.tosslk.xyz/7125df4f92b515b90bb1c642fb2be4a8*](https://QG3ZXd.tosslk.xyz/7125df4f92b515b90bb1c642fb2be4a8)
+  - **v2ray**: [*https://QG3ZXd.tosslk.xyz/7125df4f92b515b90bb1c642fb2be4a8*](https://QG3ZXd.tosslk.xyz/7125df4f92b515b90bb1c642fb2be4a8)
+  - **ios**: [*https://QG3ZXd.tosslk.xyz/7125df4f92b515b90bb1c642fb2be4a8*](https://QG3ZXd.tosslk.xyz/7125df4f92b515b90bb1c642fb2be4a8)
 - **abshare**
   - **clash**: [*https://OQnM03.absslk.xyz/c04165d7fc525410c75f2b234dcbca05*](https://OQnM03.absslk.xyz/c04165d7fc525410c75f2b234dcbca05)
   - **v2ray**: [*https://OQnM03.absslk.xyz/c04165d7fc525410c75f2b234dcbca05*](https://OQnM03.absslk.xyz/c04165d7fc525410c75f2b234dcbca05)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://pcbeu7.tosslk.xyz/b06900f79834e5ca5c06d77b6946d375*](https://pcbeu7.tosslk.xyz/b06900f79834e5ca5c06d77b6946d375)
   - **ios**: [*https://pcbeu7.tosslk.xyz/b06900f79834e5ca5c06d77b6946d375*](https://pcbeu7.tosslk.xyz/b06900f79834e5ca5c06d77b6946d375)
 - **abshare3**
-  - **clash**: [*https://TZtvyi.absslk.xyz/fc77caa8f5e6c940bfc59cece41693a9*](https://TZtvyi.absslk.xyz/fc77caa8f5e6c940bfc59cece41693a9)
-  - **v2ray**: [*https://TZtvyi.absslk.xyz/fc77caa8f5e6c940bfc59cece41693a9*](https://TZtvyi.absslk.xyz/fc77caa8f5e6c940bfc59cece41693a9)
-  - **ios**: [*https://TZtvyi.absslk.xyz/fc77caa8f5e6c940bfc59cece41693a9*](https://TZtvyi.absslk.xyz/fc77caa8f5e6c940bfc59cece41693a9)
+  - **clash**: [*https://TKVk0t.absslk.xyz/9b79fd3ee133ab4d0b4b44d304d5fd9c*](https://TKVk0t.absslk.xyz/9b79fd3ee133ab4d0b4b44d304d5fd9c)
+  - **v2ray**: [*https://TKVk0t.absslk.xyz/9b79fd3ee133ab4d0b4b44d304d5fd9c*](https://TKVk0t.absslk.xyz/9b79fd3ee133ab4d0b4b44d304d5fd9c)
+  - **ios**: [*https://TKVk0t.absslk.xyz/9b79fd3ee133ab4d0b4b44d304d5fd9c*](https://TKVk0t.absslk.xyz/9b79fd3ee133ab4d0b4b44d304d5fd9c)
