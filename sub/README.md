@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-20 18:33:29
+> Updated Time: 2025-03-20 18:44:55
 
 - **tolinkshare2**
   - **clash**: [*https://26bS9D.tosslk.xyz/d9aaacf2bd2e2ede64a921c631882f66*](https://26bS9D.tosslk.xyz/d9aaacf2bd2e2ede64a921c631882f66)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://W2BUHs.tosslk.xyz/3f489607aef8eb860f10475ae586657d*](https://W2BUHs.tosslk.xyz/3f489607aef8eb860f10475ae586657d)
   - **ios**: [*https://W2BUHs.tosslk.xyz/3f489607aef8eb860f10475ae586657d*](https://W2BUHs.tosslk.xyz/3f489607aef8eb860f10475ae586657d)
 - **abshare3**
-  - **clash**: [*https://1muqag.absslk.xyz/79476f912a794bc3255b5ddd422e6c0a*](https://1muqag.absslk.xyz/79476f912a794bc3255b5ddd422e6c0a)
-  - **v2ray**: [*https://1muqag.absslk.xyz/79476f912a794bc3255b5ddd422e6c0a*](https://1muqag.absslk.xyz/79476f912a794bc3255b5ddd422e6c0a)
-  - **ios**: [*https://1muqag.absslk.xyz/79476f912a794bc3255b5ddd422e6c0a*](https://1muqag.absslk.xyz/79476f912a794bc3255b5ddd422e6c0a)
+  - **clash**: [*https://BipJKL.absslk.xyz/7c693993f98c91b5a1e4de795339734e*](https://BipJKL.absslk.xyz/7c693993f98c91b5a1e4de795339734e)
+  - **v2ray**: [*https://BipJKL.absslk.xyz/7c693993f98c91b5a1e4de795339734e*](https://BipJKL.absslk.xyz/7c693993f98c91b5a1e4de795339734e)
+  - **ios**: [*https://BipJKL.absslk.xyz/7c693993f98c91b5a1e4de795339734e*](https://BipJKL.absslk.xyz/7c693993f98c91b5a1e4de795339734e)
