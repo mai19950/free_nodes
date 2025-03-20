@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-20 13:54:29
+> Updated Time: 2025-03-20 13:59:34
 
 - **tolinkshare2**
-  - **clash**: [*https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245*](https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245)
-  - **v2ray**: [*https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245*](https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245)
-  - **ios**: [*https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245*](https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245)
+  - **clash**: [*https://5diz35.tosslk.xyz/d3b987fededc8abf945db1128b83cdfb*](https://5diz35.tosslk.xyz/d3b987fededc8abf945db1128b83cdfb)
+  - **v2ray**: [*https://5diz35.tosslk.xyz/d3b987fededc8abf945db1128b83cdfb*](https://5diz35.tosslk.xyz/d3b987fededc8abf945db1128b83cdfb)
+  - **ios**: [*https://5diz35.tosslk.xyz/d3b987fededc8abf945db1128b83cdfb*](https://5diz35.tosslk.xyz/d3b987fededc8abf945db1128b83cdfb)
 - **abshare**
   - **clash**: [*https://aHMLCp.absslk.xyz/dcdb61db861ac83323a151b95e4d151c*](https://aHMLCp.absslk.xyz/dcdb61db861ac83323a151b95e4d151c)
   - **v2ray**: [*https://aHMLCp.absslk.xyz/dcdb61db861ac83323a151b95e4d151c*](https://aHMLCp.absslk.xyz/dcdb61db861ac83323a151b95e4d151c)
