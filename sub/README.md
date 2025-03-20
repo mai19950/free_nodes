@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-20 11:32:17
+> Updated Time: 2025-03-20 11:59:17
 
 - **tolinkshare2**
-  - **clash**: [*https://kk6EvN.tosslk.xyz/89999eceb57a80959cae235911500d51*](https://kk6EvN.tosslk.xyz/89999eceb57a80959cae235911500d51)
-  - **v2ray**: [*https://kk6EvN.tosslk.xyz/89999eceb57a80959cae235911500d51*](https://kk6EvN.tosslk.xyz/89999eceb57a80959cae235911500d51)
-  - **ios**: [*https://kk6EvN.tosslk.xyz/89999eceb57a80959cae235911500d51*](https://kk6EvN.tosslk.xyz/89999eceb57a80959cae235911500d51)
+  - **clash**: [*https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245*](https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245)
+  - **v2ray**: [*https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245*](https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245)
+  - **ios**: [*https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245*](https://4uawJT.tosslk.xyz/dc2b852b0b14c47cae60d3e37bcce245)
 - **abshare**
   - **clash**: [*https://oS31to.absslk.xyz/840c4f773286b31426e5269dd7fa2511*](https://oS31to.absslk.xyz/840c4f773286b31426e5269dd7fa2511)
   - **v2ray**: [*https://oS31to.absslk.xyz/840c4f773286b31426e5269dd7fa2511*](https://oS31to.absslk.xyz/840c4f773286b31426e5269dd7fa2511)
