@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-22 01:42:30
+> Updated Time: 2025-03-22 01:58:31
 
 - **tolinkshare2**
-  - **clash**: [*https://4t9Sj6.tosslk.xyz/ee381a26708b656e9ce845ad8f68ddb5*](https://4t9Sj6.tosslk.xyz/ee381a26708b656e9ce845ad8f68ddb5)
-  - **v2ray**: [*https://4t9Sj6.tosslk.xyz/ee381a26708b656e9ce845ad8f68ddb5*](https://4t9Sj6.tosslk.xyz/ee381a26708b656e9ce845ad8f68ddb5)
-  - **ios**: [*https://4t9Sj6.tosslk.xyz/ee381a26708b656e9ce845ad8f68ddb5*](https://4t9Sj6.tosslk.xyz/ee381a26708b656e9ce845ad8f68ddb5)
+  - **clash**: [*https://TdpMUP.tosslk.xyz/c9908a9e25cbb1c3a906b649b54d4b68*](https://TdpMUP.tosslk.xyz/c9908a9e25cbb1c3a906b649b54d4b68)
+  - **v2ray**: [*https://TdpMUP.tosslk.xyz/c9908a9e25cbb1c3a906b649b54d4b68*](https://TdpMUP.tosslk.xyz/c9908a9e25cbb1c3a906b649b54d4b68)
+  - **ios**: [*https://TdpMUP.tosslk.xyz/c9908a9e25cbb1c3a906b649b54d4b68*](https://TdpMUP.tosslk.xyz/c9908a9e25cbb1c3a906b649b54d4b68)
 - **abshare**
   - **clash**: [*https://VGLWts.absslk.xyz/103c6bdfeeedff31df8d7327c01a155f*](https://VGLWts.absslk.xyz/103c6bdfeeedff31df8d7327c01a155f)
   - **v2ray**: [*https://VGLWts.absslk.xyz/103c6bdfeeedff31df8d7327c01a155f*](https://VGLWts.absslk.xyz/103c6bdfeeedff31df8d7327c01a155f)
