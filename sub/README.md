@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-21 18:18:02
+> Updated Time: 2025-03-21 18:35:55
 
 - **tolinkshare2**
-  - **clash**: [*https://esN5EG.tosslk.xyz/9d004f14228f82da299ca00a8fc79c9c*](https://esN5EG.tosslk.xyz/9d004f14228f82da299ca00a8fc79c9c)
-  - **v2ray**: [*https://esN5EG.tosslk.xyz/9d004f14228f82da299ca00a8fc79c9c*](https://esN5EG.tosslk.xyz/9d004f14228f82da299ca00a8fc79c9c)
-  - **ios**: [*https://esN5EG.tosslk.xyz/9d004f14228f82da299ca00a8fc79c9c*](https://esN5EG.tosslk.xyz/9d004f14228f82da299ca00a8fc79c9c)
+  - **clash**: [*https://g316ky.tosslk.xyz/c9814bbd4af468547897042e981c4e89*](https://g316ky.tosslk.xyz/c9814bbd4af468547897042e981c4e89)
+  - **v2ray**: [*https://g316ky.tosslk.xyz/c9814bbd4af468547897042e981c4e89*](https://g316ky.tosslk.xyz/c9814bbd4af468547897042e981c4e89)
+  - **ios**: [*https://g316ky.tosslk.xyz/c9814bbd4af468547897042e981c4e89*](https://g316ky.tosslk.xyz/c9814bbd4af468547897042e981c4e89)
 - **abshare**
   - **clash**: [*https://lVlgVe.absslk.xyz/5f05ff0179b2ca60a5f886735f680db9*](https://lVlgVe.absslk.xyz/5f05ff0179b2ca60a5f886735f680db9)
   - **v2ray**: [*https://lVlgVe.absslk.xyz/5f05ff0179b2ca60a5f886735f680db9*](https://lVlgVe.absslk.xyz/5f05ff0179b2ca60a5f886735f680db9)
