@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-22 17:57:52
+> Updated Time: 2025-03-22 18:13:27
 
 - **tolinkshare2**
   - **clash**: [*https://WWTAgK.tosslk.xyz/dc1653ef612e4dfdaca66c94d2869e2a*](https://WWTAgK.tosslk.xyz/dc1653ef612e4dfdaca66c94d2869e2a)
@@ -32,9 +32,9 @@
   - **v2ray**: [*https://ktYtE2.absslk.xyz/2c74368b538837b5a96dae32d4dea3c6*](https://ktYtE2.absslk.xyz/2c74368b538837b5a96dae32d4dea3c6)
   - **ios**: [*https://ktYtE2.absslk.xyz/2c74368b538837b5a96dae32d4dea3c6*](https://ktYtE2.absslk.xyz/2c74368b538837b5a96dae32d4dea3c6)
 - **mksshare**
-  - **clash**: [*https://PCEBAn.mcsslk.xyz/adfd28dbd5320f14129f90843a9f9970*](https://PCEBAn.mcsslk.xyz/adfd28dbd5320f14129f90843a9f9970)
-  - **v2ray**: [*https://PCEBAn.mcsslk.xyz/adfd28dbd5320f14129f90843a9f9970*](https://PCEBAn.mcsslk.xyz/adfd28dbd5320f14129f90843a9f9970)
-  - **ios**: [*https://PCEBAn.mcsslk.xyz/adfd28dbd5320f14129f90843a9f9970*](https://PCEBAn.mcsslk.xyz/adfd28dbd5320f14129f90843a9f9970)
+  - **clash**: [*https://OcGmd1.mcsslk.xyz/5e70c6c909a7c0ab9ca07a99f4e2d2cd*](https://OcGmd1.mcsslk.xyz/5e70c6c909a7c0ab9ca07a99f4e2d2cd)
+  - **v2ray**: [*https://OcGmd1.mcsslk.xyz/5e70c6c909a7c0ab9ca07a99f4e2d2cd*](https://OcGmd1.mcsslk.xyz/5e70c6c909a7c0ab9ca07a99f4e2d2cd)
+  - **ios**: [*https://OcGmd1.mcsslk.xyz/5e70c6c909a7c0ab9ca07a99f4e2d2cd*](https://OcGmd1.mcsslk.xyz/5e70c6c909a7c0ab9ca07a99f4e2d2cd)
 - **mkshare3**
   - **clash**: [*https://Wajysp.mcsslk.xyz/74af755690aa1bcc463d5da020770c01*](https://Wajysp.mcsslk.xyz/74af755690aa1bcc463d5da020770c01)
   - **v2ray**: [*https://Wajysp.mcsslk.xyz/74af755690aa1bcc463d5da020770c01*](https://Wajysp.mcsslk.xyz/74af755690aa1bcc463d5da020770c01)
