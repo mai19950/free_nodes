@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-22 14:39:02
+> Updated Time: 2025-03-22 14:47:08
 
 - **tolinkshare2**
   - **clash**: [*https://P29xZJ.tosslk.xyz/f4d6fcaadcb4836ca807e77afa033bca*](https://P29xZJ.tosslk.xyz/f4d6fcaadcb4836ca807e77afa033bca)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://g47lm5.mcsslk.xyz/9fbd797e2ce71d5227f6db0dd50b74bf*](https://g47lm5.mcsslk.xyz/9fbd797e2ce71d5227f6db0dd50b74bf)
   - **ios**: [*https://g47lm5.mcsslk.xyz/9fbd797e2ce71d5227f6db0dd50b74bf*](https://g47lm5.mcsslk.xyz/9fbd797e2ce71d5227f6db0dd50b74bf)
 - **toshare5**
-  - **clash**: [*https://0UKAVE.tosslk.xyz/8d57f4e5b1988a030b4a5327f741b196*](https://0UKAVE.tosslk.xyz/8d57f4e5b1988a030b4a5327f741b196)
-  - **v2ray**: [*https://0UKAVE.tosslk.xyz/8d57f4e5b1988a030b4a5327f741b196*](https://0UKAVE.tosslk.xyz/8d57f4e5b1988a030b4a5327f741b196)
-  - **ios**: [*https://0UKAVE.tosslk.xyz/8d57f4e5b1988a030b4a5327f741b196*](https://0UKAVE.tosslk.xyz/8d57f4e5b1988a030b4a5327f741b196)
+  - **clash**: [*https://jpnRjS.tosslk.xyz/aa880ef286b41a1f2996e7b69e44b75c*](https://jpnRjS.tosslk.xyz/aa880ef286b41a1f2996e7b69e44b75c)
+  - **v2ray**: [*https://jpnRjS.tosslk.xyz/aa880ef286b41a1f2996e7b69e44b75c*](https://jpnRjS.tosslk.xyz/aa880ef286b41a1f2996e7b69e44b75c)
+  - **ios**: [*https://jpnRjS.tosslk.xyz/aa880ef286b41a1f2996e7b69e44b75c*](https://jpnRjS.tosslk.xyz/aa880ef286b41a1f2996e7b69e44b75c)
 - **abshare3**
   - **clash**: [*https://kHyfi6.absslk.xyz/80cf5b85495c70ddb1884cce950ed4bb*](https://kHyfi6.absslk.xyz/80cf5b85495c70ddb1884cce950ed4bb)
   - **v2ray**: [*https://kHyfi6.absslk.xyz/80cf5b85495c70ddb1884cce950ed4bb*](https://kHyfi6.absslk.xyz/80cf5b85495c70ddb1884cce950ed4bb)
