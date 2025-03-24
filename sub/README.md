@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-24 22:14:24
+> Updated Time: 2025-03-24 22:33:40
 
 - **tolinkshare2**
-  - **clash**: [*https://X81kX1.tosslk.xyz/f56572b844227460a750f83ca2464c76*](https://X81kX1.tosslk.xyz/f56572b844227460a750f83ca2464c76)
-  - **v2ray**: [*https://X81kX1.tosslk.xyz/f56572b844227460a750f83ca2464c76*](https://X81kX1.tosslk.xyz/f56572b844227460a750f83ca2464c76)
-  - **ios**: [*https://X81kX1.tosslk.xyz/f56572b844227460a750f83ca2464c76*](https://X81kX1.tosslk.xyz/f56572b844227460a750f83ca2464c76)
+  - **clash**: [*https://Aste22.tosslk.xyz/007d11c26ed651bd4b2629968c11dc11*](https://Aste22.tosslk.xyz/007d11c26ed651bd4b2629968c11dc11)
+  - **v2ray**: [*https://Aste22.tosslk.xyz/007d11c26ed651bd4b2629968c11dc11*](https://Aste22.tosslk.xyz/007d11c26ed651bd4b2629968c11dc11)
+  - **ios**: [*https://Aste22.tosslk.xyz/007d11c26ed651bd4b2629968c11dc11*](https://Aste22.tosslk.xyz/007d11c26ed651bd4b2629968c11dc11)
 - **abshare**
-  - **clash**: [*https://ESrglZ.absslk.xyz/58867a5196beb8b357e6de6fc575c832*](https://ESrglZ.absslk.xyz/58867a5196beb8b357e6de6fc575c832)
-  - **v2ray**: [*https://ESrglZ.absslk.xyz/58867a5196beb8b357e6de6fc575c832*](https://ESrglZ.absslk.xyz/58867a5196beb8b357e6de6fc575c832)
-  - **ios**: [*https://ESrglZ.absslk.xyz/58867a5196beb8b357e6de6fc575c832*](https://ESrglZ.absslk.xyz/58867a5196beb8b357e6de6fc575c832)
+  - **clash**: [*https://3do2LZ.absslk.xyz/7f1f5cf1d38bb7adfe818cf32037c452*](https://3do2LZ.absslk.xyz/7f1f5cf1d38bb7adfe818cf32037c452)
+  - **v2ray**: [*https://3do2LZ.absslk.xyz/7f1f5cf1d38bb7adfe818cf32037c452*](https://3do2LZ.absslk.xyz/7f1f5cf1d38bb7adfe818cf32037c452)
+  - **ios**: [*https://3do2LZ.absslk.xyz/7f1f5cf1d38bb7adfe818cf32037c452*](https://3do2LZ.absslk.xyz/7f1f5cf1d38bb7adfe818cf32037c452)
 - **mksshare**
   - **clash**: [*https://vLSdsy.mcsslk.xyz/4f22516dd1aa12dfaf0ca32ed7ee8da6*](https://vLSdsy.mcsslk.xyz/4f22516dd1aa12dfaf0ca32ed7ee8da6)
   - **v2ray**: [*https://vLSdsy.mcsslk.xyz/4f22516dd1aa12dfaf0ca32ed7ee8da6*](https://vLSdsy.mcsslk.xyz/4f22516dd1aa12dfaf0ca32ed7ee8da6)
