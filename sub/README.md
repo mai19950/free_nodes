@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-28 03:21:08
+> Updated Time: 2025-03-28 03:39:46
 
 - **tolinkshare2**
-  - **clash**: [*https://PwzlLp.tosslk.xyz/92b6b9ee3e9854a825a1e6ed5512106e*](https://PwzlLp.tosslk.xyz/92b6b9ee3e9854a825a1e6ed5512106e)
-  - **v2ray**: [*https://PwzlLp.tosslk.xyz/92b6b9ee3e9854a825a1e6ed5512106e*](https://PwzlLp.tosslk.xyz/92b6b9ee3e9854a825a1e6ed5512106e)
-  - **ios**: [*https://PwzlLp.tosslk.xyz/92b6b9ee3e9854a825a1e6ed5512106e*](https://PwzlLp.tosslk.xyz/92b6b9ee3e9854a825a1e6ed5512106e)
+  - **clash**: [*https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6*](https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6)
+  - **v2ray**: [*https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6*](https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6)
+  - **ios**: [*https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6*](https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6)
 - **abshare**
   - **clash**: [*https://tSR8HK.absslk.xyz/03e9cead7f32285ec323a2afe48a6202*](https://tSR8HK.absslk.xyz/03e9cead7f32285ec323a2afe48a6202)
   - **v2ray**: [*https://tSR8HK.absslk.xyz/03e9cead7f32285ec323a2afe48a6202*](https://tSR8HK.absslk.xyz/03e9cead7f32285ec323a2afe48a6202)
