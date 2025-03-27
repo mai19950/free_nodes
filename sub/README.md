@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-28 04:49:14
+> Updated Time: 2025-03-28 04:54:35
 
 - **tolinkshare2**
-  - **clash**: [*https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6*](https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6)
-  - **v2ray**: [*https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6*](https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6)
-  - **ios**: [*https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6*](https://DodQvp.tosslk.xyz/ee2f7b632ac25d7872e272f966cc04f6)
+  - **clash**: [*https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9*](https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9)
+  - **v2ray**: [*https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9*](https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9)
+  - **ios**: [*https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9*](https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9)
 - **abshare**
   - **clash**: [*https://pVyQYv.absslk.xyz/23405defca4fd96b8878e1024fb2c606*](https://pVyQYv.absslk.xyz/23405defca4fd96b8878e1024fb2c606)
   - **v2ray**: [*https://pVyQYv.absslk.xyz/23405defca4fd96b8878e1024fb2c606*](https://pVyQYv.absslk.xyz/23405defca4fd96b8878e1024fb2c606)
