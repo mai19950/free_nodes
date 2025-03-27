@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-28 05:46:38
+> Updated Time: 2025-03-28 06:11:09
 
 - **tolinkshare2**
-  - **clash**: [*https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9*](https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9)
-  - **v2ray**: [*https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9*](https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9)
-  - **ios**: [*https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9*](https://f8rWyN.tosslk.xyz/c427e67181827b34c2a8db2651f986e9)
+  - **clash**: [*https://GT92lE.tosslk.xyz/8301449541bd679c7a5fa2d23f8d3d2d*](https://GT92lE.tosslk.xyz/8301449541bd679c7a5fa2d23f8d3d2d)
+  - **v2ray**: [*https://GT92lE.tosslk.xyz/8301449541bd679c7a5fa2d23f8d3d2d*](https://GT92lE.tosslk.xyz/8301449541bd679c7a5fa2d23f8d3d2d)
+  - **ios**: [*https://GT92lE.tosslk.xyz/8301449541bd679c7a5fa2d23f8d3d2d*](https://GT92lE.tosslk.xyz/8301449541bd679c7a5fa2d23f8d3d2d)
 - **abshare**
   - **clash**: [*https://8FSmki.absslk.xyz/e6697febc4d47e260d607fcd1bf4aac1*](https://8FSmki.absslk.xyz/e6697febc4d47e260d607fcd1bf4aac1)
   - **v2ray**: [*https://8FSmki.absslk.xyz/e6697febc4d47e260d607fcd1bf4aac1*](https://8FSmki.absslk.xyz/e6697febc4d47e260d607fcd1bf4aac1)
