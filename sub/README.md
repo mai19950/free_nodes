@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-30 03:44:33
+> Updated Time: 2025-03-30 03:55:02
 
 - **tolinkshare2**
   - **clash**: [*https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6*](https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6)
   - **v2ray**: [*https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6*](https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6)
   - **ios**: [*https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6*](https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6)
 - **abshare**
-  - **clash**: [*https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242*](https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242)
-  - **v2ray**: [*https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242*](https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242)
-  - **ios**: [*https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242*](https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242)
+  - **clash**: [*https://rXxrte.absslk.xyz/5765526773787d57b98647af20459b05*](https://rXxrte.absslk.xyz/5765526773787d57b98647af20459b05)
+  - **v2ray**: [*https://rXxrte.absslk.xyz/5765526773787d57b98647af20459b05*](https://rXxrte.absslk.xyz/5765526773787d57b98647af20459b05)
+  - **ios**: [*https://rXxrte.absslk.xyz/5765526773787d57b98647af20459b05*](https://rXxrte.absslk.xyz/5765526773787d57b98647af20459b05)
 - **mksshare**
   - **clash**: [*https://eWPsyc.mcsslk.xyz/038745259f260b3aaadbb63b42ae7f8c*](https://eWPsyc.mcsslk.xyz/038745259f260b3aaadbb63b42ae7f8c)
   - **v2ray**: [*https://eWPsyc.mcsslk.xyz/038745259f260b3aaadbb63b42ae7f8c*](https://eWPsyc.mcsslk.xyz/038745259f260b3aaadbb63b42ae7f8c)
