@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-29 14:52:46
+> Updated Time: 2025-03-29 14:57:57
 
 - **tolinkshare2**
-  - **clash**: [*https://G3qWBi.tosslk.xyz/cece462a2fd7a7bf01e945bdee81cce0*](https://G3qWBi.tosslk.xyz/cece462a2fd7a7bf01e945bdee81cce0)
-  - **v2ray**: [*https://G3qWBi.tosslk.xyz/cece462a2fd7a7bf01e945bdee81cce0*](https://G3qWBi.tosslk.xyz/cece462a2fd7a7bf01e945bdee81cce0)
-  - **ios**: [*https://G3qWBi.tosslk.xyz/cece462a2fd7a7bf01e945bdee81cce0*](https://G3qWBi.tosslk.xyz/cece462a2fd7a7bf01e945bdee81cce0)
+  - **clash**: [*https://YI9b0A.tosslk.xyz/f432fc1eb468a615d533e4a60eda7429*](https://YI9b0A.tosslk.xyz/f432fc1eb468a615d533e4a60eda7429)
+  - **v2ray**: [*https://YI9b0A.tosslk.xyz/f432fc1eb468a615d533e4a60eda7429*](https://YI9b0A.tosslk.xyz/f432fc1eb468a615d533e4a60eda7429)
+  - **ios**: [*https://YI9b0A.tosslk.xyz/f432fc1eb468a615d533e4a60eda7429*](https://YI9b0A.tosslk.xyz/f432fc1eb468a615d533e4a60eda7429)
 - **abshare**
-  - **clash**: [*https://bq7RVV.absslk.xyz/88e7a17c1257d0d502ed8852830764a7*](https://bq7RVV.absslk.xyz/88e7a17c1257d0d502ed8852830764a7)
-  - **v2ray**: [*https://bq7RVV.absslk.xyz/88e7a17c1257d0d502ed8852830764a7*](https://bq7RVV.absslk.xyz/88e7a17c1257d0d502ed8852830764a7)
-  - **ios**: [*https://bq7RVV.absslk.xyz/88e7a17c1257d0d502ed8852830764a7*](https://bq7RVV.absslk.xyz/88e7a17c1257d0d502ed8852830764a7)
+  - **clash**: [*https://ZCbVS6.absslk.xyz/663256c3ddd8c0b296771d865f919374*](https://ZCbVS6.absslk.xyz/663256c3ddd8c0b296771d865f919374)
+  - **v2ray**: [*https://ZCbVS6.absslk.xyz/663256c3ddd8c0b296771d865f919374*](https://ZCbVS6.absslk.xyz/663256c3ddd8c0b296771d865f919374)
+  - **ios**: [*https://ZCbVS6.absslk.xyz/663256c3ddd8c0b296771d865f919374*](https://ZCbVS6.absslk.xyz/663256c3ddd8c0b296771d865f919374)
 - **mksshare**
   - **clash**: [*https://XxiIeb.mcsslk.xyz/2934c1080a48895ebd8d755304d20ceb*](https://XxiIeb.mcsslk.xyz/2934c1080a48895ebd8d755304d20ceb)
   - **v2ray**: [*https://XxiIeb.mcsslk.xyz/2934c1080a48895ebd8d755304d20ceb*](https://XxiIeb.mcsslk.xyz/2934c1080a48895ebd8d755304d20ceb)
