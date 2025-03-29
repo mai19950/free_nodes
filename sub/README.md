@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-29 23:51:45
+> Updated Time: 2025-03-29 23:57:14
 
 - **tolinkshare2**
   - **clash**: [*https://yw5PUc.tosslk.xyz/00acc60ad08fadf8236411802ab73731*](https://yw5PUc.tosslk.xyz/00acc60ad08fadf8236411802ab73731)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://Tu1mo6.tosslk.xyz/8ddb5e730f3998dbe380149e14f12236*](https://Tu1mo6.tosslk.xyz/8ddb5e730f3998dbe380149e14f12236)
   - **ios**: [*https://Tu1mo6.tosslk.xyz/8ddb5e730f3998dbe380149e14f12236*](https://Tu1mo6.tosslk.xyz/8ddb5e730f3998dbe380149e14f12236)
 - **abshare3**
-  - **clash**: [*https://P18TGb.absslk.xyz/9b4bd1e91fdd78f0a9a8fd1bca702fd9*](https://P18TGb.absslk.xyz/9b4bd1e91fdd78f0a9a8fd1bca702fd9)
-  - **v2ray**: [*https://P18TGb.absslk.xyz/9b4bd1e91fdd78f0a9a8fd1bca702fd9*](https://P18TGb.absslk.xyz/9b4bd1e91fdd78f0a9a8fd1bca702fd9)
-  - **ios**: [*https://P18TGb.absslk.xyz/9b4bd1e91fdd78f0a9a8fd1bca702fd9*](https://P18TGb.absslk.xyz/9b4bd1e91fdd78f0a9a8fd1bca702fd9)
+  - **clash**: [*https://RpKYKC.absslk.xyz/e1c2efeeec6c326240848f3414a2cd99*](https://RpKYKC.absslk.xyz/e1c2efeeec6c326240848f3414a2cd99)
+  - **v2ray**: [*https://RpKYKC.absslk.xyz/e1c2efeeec6c326240848f3414a2cd99*](https://RpKYKC.absslk.xyz/e1c2efeeec6c326240848f3414a2cd99)
+  - **ios**: [*https://RpKYKC.absslk.xyz/e1c2efeeec6c326240848f3414a2cd99*](https://RpKYKC.absslk.xyz/e1c2efeeec6c326240848f3414a2cd99)
