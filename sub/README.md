@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-30 03:33:38
+> Updated Time: 2025-03-30 03:44:33
 
 - **tolinkshare2**
-  - **clash**: [*https://HnQrSS.tosslk.xyz/2d3253d8004fe5f4baf944b82750e3a6*](https://HnQrSS.tosslk.xyz/2d3253d8004fe5f4baf944b82750e3a6)
-  - **v2ray**: [*https://HnQrSS.tosslk.xyz/2d3253d8004fe5f4baf944b82750e3a6*](https://HnQrSS.tosslk.xyz/2d3253d8004fe5f4baf944b82750e3a6)
-  - **ios**: [*https://HnQrSS.tosslk.xyz/2d3253d8004fe5f4baf944b82750e3a6*](https://HnQrSS.tosslk.xyz/2d3253d8004fe5f4baf944b82750e3a6)
+  - **clash**: [*https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6*](https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6)
+  - **v2ray**: [*https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6*](https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6)
+  - **ios**: [*https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6*](https://xLzX9T.tosslk.xyz/f5d581594f8eaf0845c46933f0cd76b6)
 - **abshare**
   - **clash**: [*https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242*](https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242)
   - **v2ray**: [*https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242*](https://LBIM57.absslk.xyz/36398fe5bacf0e613898625e9b4fd242)
