@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-30 01:32:44
+> Updated Time: 2025-03-30 01:39:00
 
 - **tolinkshare2**
-  - **clash**: [*https://KvfOAN.tosslk.xyz/495ef6b28b723eefc9ffb3b2284ba462*](https://KvfOAN.tosslk.xyz/495ef6b28b723eefc9ffb3b2284ba462)
-  - **v2ray**: [*https://KvfOAN.tosslk.xyz/495ef6b28b723eefc9ffb3b2284ba462*](https://KvfOAN.tosslk.xyz/495ef6b28b723eefc9ffb3b2284ba462)
-  - **ios**: [*https://KvfOAN.tosslk.xyz/495ef6b28b723eefc9ffb3b2284ba462*](https://KvfOAN.tosslk.xyz/495ef6b28b723eefc9ffb3b2284ba462)
+  - **clash**: [*https://LXXljo.tosslk.xyz/c37d31bf31cd93d3e20896fe1b52b51f*](https://LXXljo.tosslk.xyz/c37d31bf31cd93d3e20896fe1b52b51f)
+  - **v2ray**: [*https://LXXljo.tosslk.xyz/c37d31bf31cd93d3e20896fe1b52b51f*](https://LXXljo.tosslk.xyz/c37d31bf31cd93d3e20896fe1b52b51f)
+  - **ios**: [*https://LXXljo.tosslk.xyz/c37d31bf31cd93d3e20896fe1b52b51f*](https://LXXljo.tosslk.xyz/c37d31bf31cd93d3e20896fe1b52b51f)
 - **abshare**
   - **clash**: [*https://iraVbu.absslk.xyz/8e9added5fa4a4eeece296466744903d*](https://iraVbu.absslk.xyz/8e9added5fa4a4eeece296466744903d)
   - **v2ray**: [*https://iraVbu.absslk.xyz/8e9added5fa4a4eeece296466744903d*](https://iraVbu.absslk.xyz/8e9added5fa4a4eeece296466744903d)
