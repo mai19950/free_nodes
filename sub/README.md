@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-30 13:28:31
+> Updated Time: 2025-03-30 13:37:56
 
 - **tolinkshare2**
   - **clash**: [*https://PjHdi1.tosslk.xyz/1c0da12971c617ea0d41ca4538efbee6*](https://PjHdi1.tosslk.xyz/1c0da12971c617ea0d41ca4538efbee6)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://0lbUyu.tosslk.xyz/0ab02b2f65c07adbee0e72e57e6eaba7*](https://0lbUyu.tosslk.xyz/0ab02b2f65c07adbee0e72e57e6eaba7)
   - **ios**: [*https://0lbUyu.tosslk.xyz/0ab02b2f65c07adbee0e72e57e6eaba7*](https://0lbUyu.tosslk.xyz/0ab02b2f65c07adbee0e72e57e6eaba7)
 - **abshare3**
-  - **clash**: [*https://UJuiTN.absslk.xyz/adf88f8c0eac273a91b3324816c044a8*](https://UJuiTN.absslk.xyz/adf88f8c0eac273a91b3324816c044a8)
-  - **v2ray**: [*https://UJuiTN.absslk.xyz/adf88f8c0eac273a91b3324816c044a8*](https://UJuiTN.absslk.xyz/adf88f8c0eac273a91b3324816c044a8)
-  - **ios**: [*https://UJuiTN.absslk.xyz/adf88f8c0eac273a91b3324816c044a8*](https://UJuiTN.absslk.xyz/adf88f8c0eac273a91b3324816c044a8)
+  - **clash**: [*https://MG5LDf.absslk.xyz/78738e19cca146da36bc778d78c89b0e*](https://MG5LDf.absslk.xyz/78738e19cca146da36bc778d78c89b0e)
+  - **v2ray**: [*https://MG5LDf.absslk.xyz/78738e19cca146da36bc778d78c89b0e*](https://MG5LDf.absslk.xyz/78738e19cca146da36bc778d78c89b0e)
+  - **ios**: [*https://MG5LDf.absslk.xyz/78738e19cca146da36bc778d78c89b0e*](https://MG5LDf.absslk.xyz/78738e19cca146da36bc778d78c89b0e)
