@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-30 23:32:49
+> Updated Time: 2025-03-30 23:44:47
 
 - **tolinkshare2**
   - **clash**: [*https://npS7qw.tosslk.xyz/3950692cfb971fc241833351874ffd1c*](https://npS7qw.tosslk.xyz/3950692cfb971fc241833351874ffd1c)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://bxCBUQ.tosslk.xyz/c5f654b27300da1619cbbdbb6e61eaf8*](https://bxCBUQ.tosslk.xyz/c5f654b27300da1619cbbdbb6e61eaf8)
   - **ios**: [*https://bxCBUQ.tosslk.xyz/c5f654b27300da1619cbbdbb6e61eaf8*](https://bxCBUQ.tosslk.xyz/c5f654b27300da1619cbbdbb6e61eaf8)
 - **abshare3**
-  - **clash**: [*https://krsJJo.absslk.xyz/99415a42e921ae5cb23059f47d9465dd*](https://krsJJo.absslk.xyz/99415a42e921ae5cb23059f47d9465dd)
-  - **v2ray**: [*https://krsJJo.absslk.xyz/99415a42e921ae5cb23059f47d9465dd*](https://krsJJo.absslk.xyz/99415a42e921ae5cb23059f47d9465dd)
-  - **ios**: [*https://krsJJo.absslk.xyz/99415a42e921ae5cb23059f47d9465dd*](https://krsJJo.absslk.xyz/99415a42e921ae5cb23059f47d9465dd)
+  - **clash**: [*https://7zSu2I.absslk.xyz/50629ded2064a26c50aa6a3c414aec05*](https://7zSu2I.absslk.xyz/50629ded2064a26c50aa6a3c414aec05)
+  - **v2ray**: [*https://7zSu2I.absslk.xyz/50629ded2064a26c50aa6a3c414aec05*](https://7zSu2I.absslk.xyz/50629ded2064a26c50aa6a3c414aec05)
+  - **ios**: [*https://7zSu2I.absslk.xyz/50629ded2064a26c50aa6a3c414aec05*](https://7zSu2I.absslk.xyz/50629ded2064a26c50aa6a3c414aec05)
