@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-30 14:54:40
+> Updated Time: 2025-03-30 15:15:44
 
 - **tolinkshare2**
-  - **clash**: [*https://aepWan.tosslk.xyz/8424ecd097b171910f1c38359fff057a*](https://aepWan.tosslk.xyz/8424ecd097b171910f1c38359fff057a)
-  - **v2ray**: [*https://aepWan.tosslk.xyz/8424ecd097b171910f1c38359fff057a*](https://aepWan.tosslk.xyz/8424ecd097b171910f1c38359fff057a)
-  - **ios**: [*https://aepWan.tosslk.xyz/8424ecd097b171910f1c38359fff057a*](https://aepWan.tosslk.xyz/8424ecd097b171910f1c38359fff057a)
+  - **clash**: [*https://J7FEg0.tosslk.xyz/d9d87d3e5926b4ce740ae7c29d7df0e7*](https://J7FEg0.tosslk.xyz/d9d87d3e5926b4ce740ae7c29d7df0e7)
+  - **v2ray**: [*https://J7FEg0.tosslk.xyz/d9d87d3e5926b4ce740ae7c29d7df0e7*](https://J7FEg0.tosslk.xyz/d9d87d3e5926b4ce740ae7c29d7df0e7)
+  - **ios**: [*https://J7FEg0.tosslk.xyz/d9d87d3e5926b4ce740ae7c29d7df0e7*](https://J7FEg0.tosslk.xyz/d9d87d3e5926b4ce740ae7c29d7df0e7)
 - **abshare**
   - **clash**: [*https://w3K1Ku.absslk.xyz/16f29fd71b2d7920ad2a950bb10df783*](https://w3K1Ku.absslk.xyz/16f29fd71b2d7920ad2a950bb10df783)
   - **v2ray**: [*https://w3K1Ku.absslk.xyz/16f29fd71b2d7920ad2a950bb10df783*](https://w3K1Ku.absslk.xyz/16f29fd71b2d7920ad2a950bb10df783)
