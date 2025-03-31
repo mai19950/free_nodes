@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-31 21:51:18
+> Updated Time: 2025-03-31 21:56:28
 
 - **tolinkshare2**
-  - **clash**: [*https://y91ZEF.tosslk.xyz/d2c630d8a761c60aab457815f0c65647*](https://y91ZEF.tosslk.xyz/d2c630d8a761c60aab457815f0c65647)
-  - **v2ray**: [*https://y91ZEF.tosslk.xyz/d2c630d8a761c60aab457815f0c65647*](https://y91ZEF.tosslk.xyz/d2c630d8a761c60aab457815f0c65647)
-  - **ios**: [*https://y91ZEF.tosslk.xyz/d2c630d8a761c60aab457815f0c65647*](https://y91ZEF.tosslk.xyz/d2c630d8a761c60aab457815f0c65647)
+  - **clash**: [*https://zPZipO.tosslk.xyz/93565c05b21cf1f848f4a7b77cb69cb8*](https://zPZipO.tosslk.xyz/93565c05b21cf1f848f4a7b77cb69cb8)
+  - **v2ray**: [*https://zPZipO.tosslk.xyz/93565c05b21cf1f848f4a7b77cb69cb8*](https://zPZipO.tosslk.xyz/93565c05b21cf1f848f4a7b77cb69cb8)
+  - **ios**: [*https://zPZipO.tosslk.xyz/93565c05b21cf1f848f4a7b77cb69cb8*](https://zPZipO.tosslk.xyz/93565c05b21cf1f848f4a7b77cb69cb8)
 - **abshare**
   - **clash**: [*https://e1VmPz.absslk.xyz/d0e8d19a77fbb38858a75f6b768287f8*](https://e1VmPz.absslk.xyz/d0e8d19a77fbb38858a75f6b768287f8)
   - **v2ray**: [*https://e1VmPz.absslk.xyz/d0e8d19a77fbb38858a75f6b768287f8*](https://e1VmPz.absslk.xyz/d0e8d19a77fbb38858a75f6b768287f8)
