@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-03-31 23:46:18
+> Updated Time: 2025-03-31 23:56:44
 
 - **tolinkshare2**
-  - **clash**: [*https://KDMyQu.tosslk.xyz/7849fa17558868db72afbd81600a2015*](https://KDMyQu.tosslk.xyz/7849fa17558868db72afbd81600a2015)
-  - **v2ray**: [*https://KDMyQu.tosslk.xyz/7849fa17558868db72afbd81600a2015*](https://KDMyQu.tosslk.xyz/7849fa17558868db72afbd81600a2015)
-  - **ios**: [*https://KDMyQu.tosslk.xyz/7849fa17558868db72afbd81600a2015*](https://KDMyQu.tosslk.xyz/7849fa17558868db72afbd81600a2015)
+  - **clash**: [*https://02gyZ3.tosslk.xyz/0722c7a4a29cb4daf6f9eed8b321aa54*](https://02gyZ3.tosslk.xyz/0722c7a4a29cb4daf6f9eed8b321aa54)
+  - **v2ray**: [*https://02gyZ3.tosslk.xyz/0722c7a4a29cb4daf6f9eed8b321aa54*](https://02gyZ3.tosslk.xyz/0722c7a4a29cb4daf6f9eed8b321aa54)
+  - **ios**: [*https://02gyZ3.tosslk.xyz/0722c7a4a29cb4daf6f9eed8b321aa54*](https://02gyZ3.tosslk.xyz/0722c7a4a29cb4daf6f9eed8b321aa54)
 - **abshare**
   - **clash**: [*https://h3WinD.absslk.xyz/02bd7d5d19fd8571a2d1d49871d4d220*](https://h3WinD.absslk.xyz/02bd7d5d19fd8571a2d1d49871d4d220)
   - **v2ray**: [*https://h3WinD.absslk.xyz/02bd7d5d19fd8571a2d1d49871d4d220*](https://h3WinD.absslk.xyz/02bd7d5d19fd8571a2d1d49871d4d220)
