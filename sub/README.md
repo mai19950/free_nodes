@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-01 03:10:33
+> Updated Time: 2025-04-01 03:34:55
 
 - **tolinkshare2**
-  - **clash**: [*https://951OYe.tosslk.xyz/d7fc2f9897c9eb4b766810a6f07a26df*](https://951OYe.tosslk.xyz/d7fc2f9897c9eb4b766810a6f07a26df)
-  - **v2ray**: [*https://951OYe.tosslk.xyz/d7fc2f9897c9eb4b766810a6f07a26df*](https://951OYe.tosslk.xyz/d7fc2f9897c9eb4b766810a6f07a26df)
-  - **ios**: [*https://951OYe.tosslk.xyz/d7fc2f9897c9eb4b766810a6f07a26df*](https://951OYe.tosslk.xyz/d7fc2f9897c9eb4b766810a6f07a26df)
+  - **clash**: [*https://lPMhwr.tosslk.xyz/c7bdaaa1d6458dbfc0c628bf2dd371d3*](https://lPMhwr.tosslk.xyz/c7bdaaa1d6458dbfc0c628bf2dd371d3)
+  - **v2ray**: [*https://lPMhwr.tosslk.xyz/c7bdaaa1d6458dbfc0c628bf2dd371d3*](https://lPMhwr.tosslk.xyz/c7bdaaa1d6458dbfc0c628bf2dd371d3)
+  - **ios**: [*https://lPMhwr.tosslk.xyz/c7bdaaa1d6458dbfc0c628bf2dd371d3*](https://lPMhwr.tosslk.xyz/c7bdaaa1d6458dbfc0c628bf2dd371d3)
 - **abshare**
   - **clash**: [*https://iBGc30.absslk.xyz/f787aa17e8bd621c6f45df1e613e2cb3*](https://iBGc30.absslk.xyz/f787aa17e8bd621c6f45df1e613e2cb3)
   - **v2ray**: [*https://iBGc30.absslk.xyz/f787aa17e8bd621c6f45df1e613e2cb3*](https://iBGc30.absslk.xyz/f787aa17e8bd621c6f45df1e613e2cb3)
