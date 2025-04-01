@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-02 02:55:59
+> Updated Time: 2025-04-02 03:21:31
 
 - **tolinkshare2**
-  - **clash**: [*https://S469jI.tosslk.xyz/087399f193960913bd2f8ea143b49b88*](https://S469jI.tosslk.xyz/087399f193960913bd2f8ea143b49b88)
-  - **v2ray**: [*https://S469jI.tosslk.xyz/087399f193960913bd2f8ea143b49b88*](https://S469jI.tosslk.xyz/087399f193960913bd2f8ea143b49b88)
-  - **ios**: [*https://S469jI.tosslk.xyz/087399f193960913bd2f8ea143b49b88*](https://S469jI.tosslk.xyz/087399f193960913bd2f8ea143b49b88)
+  - **clash**: [*https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb*](https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb)
+  - **v2ray**: [*https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb*](https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb)
+  - **ios**: [*https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb*](https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb)
 - **abshare**
   - **clash**: [*https://TInU2N.absslk.xyz/379a4e5c24ceadf18871a8f614fd99d8*](https://TInU2N.absslk.xyz/379a4e5c24ceadf18871a8f614fd99d8)
   - **v2ray**: [*https://TInU2N.absslk.xyz/379a4e5c24ceadf18871a8f614fd99d8*](https://TInU2N.absslk.xyz/379a4e5c24ceadf18871a8f614fd99d8)
