@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-02 03:21:31
+> Updated Time: 2025-04-02 03:27:33
 
 - **tolinkshare2**
   - **clash**: [*https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb*](https://6DAVI6.tosslk.xyz/3eb44e1d6ea777a125d159c45179eecb)
@@ -44,6 +44,6 @@
   - **v2ray**: [*https://6aIdVu.tosslk.xyz/088ab9f9d7923fb451ce0aad1538fc70*](https://6aIdVu.tosslk.xyz/088ab9f9d7923fb451ce0aad1538fc70)
   - **ios**: [*https://6aIdVu.tosslk.xyz/088ab9f9d7923fb451ce0aad1538fc70*](https://6aIdVu.tosslk.xyz/088ab9f9d7923fb451ce0aad1538fc70)
 - **abshare3**
-  - **clash**: [*https://MBOIPo.absslk.xyz/afa5ea71d494063c8553c925a8d00de9*](https://MBOIPo.absslk.xyz/afa5ea71d494063c8553c925a8d00de9)
-  - **v2ray**: [*https://MBOIPo.absslk.xyz/afa5ea71d494063c8553c925a8d00de9*](https://MBOIPo.absslk.xyz/afa5ea71d494063c8553c925a8d00de9)
-  - **ios**: [*https://MBOIPo.absslk.xyz/afa5ea71d494063c8553c925a8d00de9*](https://MBOIPo.absslk.xyz/afa5ea71d494063c8553c925a8d00de9)
+  - **clash**: [*https://wEvcZX.absslk.xyz/20eef601dcaf15fc8b05d4eea3da5c49*](https://wEvcZX.absslk.xyz/20eef601dcaf15fc8b05d4eea3da5c49)
+  - **v2ray**: [*https://wEvcZX.absslk.xyz/20eef601dcaf15fc8b05d4eea3da5c49*](https://wEvcZX.absslk.xyz/20eef601dcaf15fc8b05d4eea3da5c49)
+  - **ios**: [*https://wEvcZX.absslk.xyz/20eef601dcaf15fc8b05d4eea3da5c49*](https://wEvcZX.absslk.xyz/20eef601dcaf15fc8b05d4eea3da5c49)
