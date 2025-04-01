@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-01 15:44:46
+> Updated Time: 2025-04-01 15:50:13
 
 - **tolinkshare2**
-  - **clash**: [*https://r8QOD4.tosslk.xyz/1f12a041fd5fdabf32cbf399210da6b1*](https://r8QOD4.tosslk.xyz/1f12a041fd5fdabf32cbf399210da6b1)
-  - **v2ray**: [*https://r8QOD4.tosslk.xyz/1f12a041fd5fdabf32cbf399210da6b1*](https://r8QOD4.tosslk.xyz/1f12a041fd5fdabf32cbf399210da6b1)
-  - **ios**: [*https://r8QOD4.tosslk.xyz/1f12a041fd5fdabf32cbf399210da6b1*](https://r8QOD4.tosslk.xyz/1f12a041fd5fdabf32cbf399210da6b1)
+  - **clash**: [*https://rXka2Y.tosslk.xyz/7410d76b1b6f44beb67692858317d20e*](https://rXka2Y.tosslk.xyz/7410d76b1b6f44beb67692858317d20e)
+  - **v2ray**: [*https://rXka2Y.tosslk.xyz/7410d76b1b6f44beb67692858317d20e*](https://rXka2Y.tosslk.xyz/7410d76b1b6f44beb67692858317d20e)
+  - **ios**: [*https://rXka2Y.tosslk.xyz/7410d76b1b6f44beb67692858317d20e*](https://rXka2Y.tosslk.xyz/7410d76b1b6f44beb67692858317d20e)
 - **abshare**
   - **clash**: [*https://nxQrA9.absslk.xyz/fba1916fe1afb53d2db99149bb78dc96*](https://nxQrA9.absslk.xyz/fba1916fe1afb53d2db99149bb78dc96)
   - **v2ray**: [*https://nxQrA9.absslk.xyz/fba1916fe1afb53d2db99149bb78dc96*](https://nxQrA9.absslk.xyz/fba1916fe1afb53d2db99149bb78dc96)
