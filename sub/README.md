@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-02 19:10:05
+> Updated Time: 2025-04-02 19:23:36
 
 - **tolinkshare2**
-  - **clash**: [*https://2Pt5ne.tosslk.xyz/6aeed5a290dbaeacbbbc5ebad926a59d*](https://2Pt5ne.tosslk.xyz/6aeed5a290dbaeacbbbc5ebad926a59d)
-  - **v2ray**: [*https://2Pt5ne.tosslk.xyz/6aeed5a290dbaeacbbbc5ebad926a59d*](https://2Pt5ne.tosslk.xyz/6aeed5a290dbaeacbbbc5ebad926a59d)
-  - **ios**: [*https://2Pt5ne.tosslk.xyz/6aeed5a290dbaeacbbbc5ebad926a59d*](https://2Pt5ne.tosslk.xyz/6aeed5a290dbaeacbbbc5ebad926a59d)
+  - **clash**: [*https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4*](https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4)
+  - **v2ray**: [*https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4*](https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4)
+  - **ios**: [*https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4*](https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4)
 - **abshare**
-  - **clash**: [*https://MQJKm7.absslk.xyz/851b20ff9d717f18fcbf30a444567493*](https://MQJKm7.absslk.xyz/851b20ff9d717f18fcbf30a444567493)
-  - **v2ray**: [*https://MQJKm7.absslk.xyz/851b20ff9d717f18fcbf30a444567493*](https://MQJKm7.absslk.xyz/851b20ff9d717f18fcbf30a444567493)
-  - **ios**: [*https://MQJKm7.absslk.xyz/851b20ff9d717f18fcbf30a444567493*](https://MQJKm7.absslk.xyz/851b20ff9d717f18fcbf30a444567493)
+  - **clash**: [*https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742*](https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742)
+  - **v2ray**: [*https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742*](https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742)
+  - **ios**: [*https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742*](https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742)
 - **mksshare**
   - **clash**: [*https://oNQDgo.mcsslk.xyz/730f849a3e760774b476ff2ca15b3027*](https://oNQDgo.mcsslk.xyz/730f849a3e760774b476ff2ca15b3027)
   - **v2ray**: [*https://oNQDgo.mcsslk.xyz/730f849a3e760774b476ff2ca15b3027*](https://oNQDgo.mcsslk.xyz/730f849a3e760774b476ff2ca15b3027)
