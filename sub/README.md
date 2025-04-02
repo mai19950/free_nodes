@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-02 19:23:36
+> Updated Time: 2025-04-02 19:29:48
 
 - **tolinkshare2**
-  - **clash**: [*https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4*](https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4)
-  - **v2ray**: [*https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4*](https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4)
-  - **ios**: [*https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4*](https://Ri3PkR.tosslk.xyz/bdc58fe8d374e00b003f8c341530a5d4)
+  - **clash**: [*https://SdP3mP.tosslk.xyz/a66365cd273c406b530f847bd35dd87f*](https://SdP3mP.tosslk.xyz/a66365cd273c406b530f847bd35dd87f)
+  - **v2ray**: [*https://SdP3mP.tosslk.xyz/a66365cd273c406b530f847bd35dd87f*](https://SdP3mP.tosslk.xyz/a66365cd273c406b530f847bd35dd87f)
+  - **ios**: [*https://SdP3mP.tosslk.xyz/a66365cd273c406b530f847bd35dd87f*](https://SdP3mP.tosslk.xyz/a66365cd273c406b530f847bd35dd87f)
 - **abshare**
   - **clash**: [*https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742*](https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742)
   - **v2ray**: [*https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742*](https://cYkcCe.absslk.xyz/ff67c40d7b7a5f9581d19c356c89f742)
