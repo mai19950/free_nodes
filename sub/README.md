@@ -21,7 +21,7 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-02 12:10:35
+> Updated Time: 2025-04-02 12:33:14
 
 - **tolinkshare2**
   - **clash**: [*https://30XcML.tosslk.xyz/0b6a5c709d316b24a9eadaa7df110349*](https://30XcML.tosslk.xyz/0b6a5c709d316b24a9eadaa7df110349)
@@ -40,9 +40,9 @@
   - **v2ray**: [*https://hS3Jos.mcsslk.xyz/e5b3c0d14371b0555a7302f2a89c8864*](https://hS3Jos.mcsslk.xyz/e5b3c0d14371b0555a7302f2a89c8864)
   - **ios**: [*https://hS3Jos.mcsslk.xyz/e5b3c0d14371b0555a7302f2a89c8864*](https://hS3Jos.mcsslk.xyz/e5b3c0d14371b0555a7302f2a89c8864)
 - **toshare5**
-  - **clash**: [*https://0J4mkN.tosslk.xyz/b6bd04da208b213532538de1158fde23*](https://0J4mkN.tosslk.xyz/b6bd04da208b213532538de1158fde23)
-  - **v2ray**: [*https://0J4mkN.tosslk.xyz/b6bd04da208b213532538de1158fde23*](https://0J4mkN.tosslk.xyz/b6bd04da208b213532538de1158fde23)
-  - **ios**: [*https://0J4mkN.tosslk.xyz/b6bd04da208b213532538de1158fde23*](https://0J4mkN.tosslk.xyz/b6bd04da208b213532538de1158fde23)
+  - **clash**: [*https://RGiNOm.tosslk.xyz/60d486d95b41029cf3189f6824a50b52*](https://RGiNOm.tosslk.xyz/60d486d95b41029cf3189f6824a50b52)
+  - **v2ray**: [*https://RGiNOm.tosslk.xyz/60d486d95b41029cf3189f6824a50b52*](https://RGiNOm.tosslk.xyz/60d486d95b41029cf3189f6824a50b52)
+  - **ios**: [*https://RGiNOm.tosslk.xyz/60d486d95b41029cf3189f6824a50b52*](https://RGiNOm.tosslk.xyz/60d486d95b41029cf3189f6824a50b52)
 - **abshare3**
   - **clash**: [*https://d7bFq7.absslk.xyz/e425ed02d08eef3ed7fddbe87952c661*](https://d7bFq7.absslk.xyz/e425ed02d08eef3ed7fddbe87952c661)
   - **v2ray**: [*https://d7bFq7.absslk.xyz/e425ed02d08eef3ed7fddbe87952c661*](https://d7bFq7.absslk.xyz/e425ed02d08eef3ed7fddbe87952c661)
