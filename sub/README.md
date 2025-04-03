@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-03 21:54:19
+> Updated Time: 2025-04-03 21:59:27
 
 - **tolinkshare2**
   - **clash**: [*https://nd2UTc.tosslk.xyz/57479ac0e5da1d5ce8f28da3db2adcf4*](https://nd2UTc.tosslk.xyz/57479ac0e5da1d5ce8f28da3db2adcf4)
   - **v2ray**: [*https://nd2UTc.tosslk.xyz/57479ac0e5da1d5ce8f28da3db2adcf4*](https://nd2UTc.tosslk.xyz/57479ac0e5da1d5ce8f28da3db2adcf4)
   - **ios**: [*https://nd2UTc.tosslk.xyz/57479ac0e5da1d5ce8f28da3db2adcf4*](https://nd2UTc.tosslk.xyz/57479ac0e5da1d5ce8f28da3db2adcf4)
 - **abshare**
-  - **clash**: [*https://zyl37e.absslk.xyz/19c097afd5db1713f903c28234fe8a5a*](https://zyl37e.absslk.xyz/19c097afd5db1713f903c28234fe8a5a)
-  - **v2ray**: [*https://zyl37e.absslk.xyz/19c097afd5db1713f903c28234fe8a5a*](https://zyl37e.absslk.xyz/19c097afd5db1713f903c28234fe8a5a)
-  - **ios**: [*https://zyl37e.absslk.xyz/19c097afd5db1713f903c28234fe8a5a*](https://zyl37e.absslk.xyz/19c097afd5db1713f903c28234fe8a5a)
+  - **clash**: [*https://DN7uwl.absslk.xyz/9e150deebdec3f6a001bb452283e61da*](https://DN7uwl.absslk.xyz/9e150deebdec3f6a001bb452283e61da)
+  - **v2ray**: [*https://DN7uwl.absslk.xyz/9e150deebdec3f6a001bb452283e61da*](https://DN7uwl.absslk.xyz/9e150deebdec3f6a001bb452283e61da)
+  - **ios**: [*https://DN7uwl.absslk.xyz/9e150deebdec3f6a001bb452283e61da*](https://DN7uwl.absslk.xyz/9e150deebdec3f6a001bb452283e61da)
 - **mksshare**
   - **clash**: [*https://qX0yrk.mcsslk.xyz/13508e3f064039695cfa2b37ee591cd3*](https://qX0yrk.mcsslk.xyz/13508e3f064039695cfa2b37ee591cd3)
   - **v2ray**: [*https://qX0yrk.mcsslk.xyz/13508e3f064039695cfa2b37ee591cd3*](https://qX0yrk.mcsslk.xyz/13508e3f064039695cfa2b37ee591cd3)
