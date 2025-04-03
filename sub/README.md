@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-03 17:39:04
+> Updated Time: 2025-04-03 17:44:54
 
 - **tolinkshare2**
-  - **clash**: [*https://nSiO3J.tosslk.xyz/2917ef5247d2cde974ea2e457caddf7b*](https://nSiO3J.tosslk.xyz/2917ef5247d2cde974ea2e457caddf7b)
-  - **v2ray**: [*https://nSiO3J.tosslk.xyz/2917ef5247d2cde974ea2e457caddf7b*](https://nSiO3J.tosslk.xyz/2917ef5247d2cde974ea2e457caddf7b)
-  - **ios**: [*https://nSiO3J.tosslk.xyz/2917ef5247d2cde974ea2e457caddf7b*](https://nSiO3J.tosslk.xyz/2917ef5247d2cde974ea2e457caddf7b)
+  - **clash**: [*https://NtH6ZY.tosslk.xyz/4df762473dcf7fad6b7ee2260f950fd9*](https://NtH6ZY.tosslk.xyz/4df762473dcf7fad6b7ee2260f950fd9)
+  - **v2ray**: [*https://NtH6ZY.tosslk.xyz/4df762473dcf7fad6b7ee2260f950fd9*](https://NtH6ZY.tosslk.xyz/4df762473dcf7fad6b7ee2260f950fd9)
+  - **ios**: [*https://NtH6ZY.tosslk.xyz/4df762473dcf7fad6b7ee2260f950fd9*](https://NtH6ZY.tosslk.xyz/4df762473dcf7fad6b7ee2260f950fd9)
 - **abshare**
   - **clash**: [*https://nKOn0z.absslk.xyz/0119a66a7d02ad7425cc31511a21e092*](https://nKOn0z.absslk.xyz/0119a66a7d02ad7425cc31511a21e092)
   - **v2ray**: [*https://nKOn0z.absslk.xyz/0119a66a7d02ad7425cc31511a21e092*](https://nKOn0z.absslk.xyz/0119a66a7d02ad7425cc31511a21e092)
