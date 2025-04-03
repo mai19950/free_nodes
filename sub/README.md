@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-03 15:51:46
+> Updated Time: 2025-04-03 15:57:02
 
 - **tolinkshare2**
-  - **clash**: [*https://5vUaZX.tosslk.xyz/bc48c6ab58a5cdd8a37c5de6640bc1e1*](https://5vUaZX.tosslk.xyz/bc48c6ab58a5cdd8a37c5de6640bc1e1)
-  - **v2ray**: [*https://5vUaZX.tosslk.xyz/bc48c6ab58a5cdd8a37c5de6640bc1e1*](https://5vUaZX.tosslk.xyz/bc48c6ab58a5cdd8a37c5de6640bc1e1)
-  - **ios**: [*https://5vUaZX.tosslk.xyz/bc48c6ab58a5cdd8a37c5de6640bc1e1*](https://5vUaZX.tosslk.xyz/bc48c6ab58a5cdd8a37c5de6640bc1e1)
+  - **clash**: [*https://Lw0BCT.tosslk.xyz/fa2ae2a2421952989faedbe62c830e9b*](https://Lw0BCT.tosslk.xyz/fa2ae2a2421952989faedbe62c830e9b)
+  - **v2ray**: [*https://Lw0BCT.tosslk.xyz/fa2ae2a2421952989faedbe62c830e9b*](https://Lw0BCT.tosslk.xyz/fa2ae2a2421952989faedbe62c830e9b)
+  - **ios**: [*https://Lw0BCT.tosslk.xyz/fa2ae2a2421952989faedbe62c830e9b*](https://Lw0BCT.tosslk.xyz/fa2ae2a2421952989faedbe62c830e9b)
 - **abshare**
   - **clash**: [*https://z3lK4Z.absslk.xyz/dbbc3ad9eda511931e751eb082ffec6b*](https://z3lK4Z.absslk.xyz/dbbc3ad9eda511931e751eb082ffec6b)
   - **v2ray**: [*https://z3lK4Z.absslk.xyz/dbbc3ad9eda511931e751eb082ffec6b*](https://z3lK4Z.absslk.xyz/dbbc3ad9eda511931e751eb082ffec6b)
