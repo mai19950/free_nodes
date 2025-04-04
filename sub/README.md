@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-05 05:31:07
+> Updated Time: 2025-04-05 05:37:46
 
 - **tolinkshare2**
-  - **clash**: [*https://e5Ljj7.tosslk.xyz/ed85728ec13ce1d2fbb26e5fb6139b14*](https://e5Ljj7.tosslk.xyz/ed85728ec13ce1d2fbb26e5fb6139b14)
-  - **v2ray**: [*https://e5Ljj7.tosslk.xyz/ed85728ec13ce1d2fbb26e5fb6139b14*](https://e5Ljj7.tosslk.xyz/ed85728ec13ce1d2fbb26e5fb6139b14)
-  - **ios**: [*https://e5Ljj7.tosslk.xyz/ed85728ec13ce1d2fbb26e5fb6139b14*](https://e5Ljj7.tosslk.xyz/ed85728ec13ce1d2fbb26e5fb6139b14)
+  - **clash**: [*https://ZlfCmG.tosslk.xyz/69fa5609b2cd0d0626889ea2e3ef4f03*](https://ZlfCmG.tosslk.xyz/69fa5609b2cd0d0626889ea2e3ef4f03)
+  - **v2ray**: [*https://ZlfCmG.tosslk.xyz/69fa5609b2cd0d0626889ea2e3ef4f03*](https://ZlfCmG.tosslk.xyz/69fa5609b2cd0d0626889ea2e3ef4f03)
+  - **ios**: [*https://ZlfCmG.tosslk.xyz/69fa5609b2cd0d0626889ea2e3ef4f03*](https://ZlfCmG.tosslk.xyz/69fa5609b2cd0d0626889ea2e3ef4f03)
 - **abshare**
   - **clash**: [*https://Sq1Ycl.absslk.xyz/ebcc3f23659ee4a44fa439fef26ae4d8*](https://Sq1Ycl.absslk.xyz/ebcc3f23659ee4a44fa439fef26ae4d8)
   - **v2ray**: [*https://Sq1Ycl.absslk.xyz/ebcc3f23659ee4a44fa439fef26ae4d8*](https://Sq1Ycl.absslk.xyz/ebcc3f23659ee4a44fa439fef26ae4d8)
