@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-04 17:41:37
+> Updated Time: 2025-04-04 17:46:57
 
 - **tolinkshare2**
-  - **clash**: [*https://Pk4tho.tosslk.xyz/4a8c5b445433bfa24f2ad32d66004247*](https://Pk4tho.tosslk.xyz/4a8c5b445433bfa24f2ad32d66004247)
-  - **v2ray**: [*https://Pk4tho.tosslk.xyz/4a8c5b445433bfa24f2ad32d66004247*](https://Pk4tho.tosslk.xyz/4a8c5b445433bfa24f2ad32d66004247)
-  - **ios**: [*https://Pk4tho.tosslk.xyz/4a8c5b445433bfa24f2ad32d66004247*](https://Pk4tho.tosslk.xyz/4a8c5b445433bfa24f2ad32d66004247)
+  - **clash**: [*https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a*](https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a)
+  - **v2ray**: [*https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a*](https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a)
+  - **ios**: [*https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a*](https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a)
 - **abshare**
-  - **clash**: [*https://wLHHxk.absslk.xyz/e96b5e053204909c5f4be7e7f4ce658a*](https://wLHHxk.absslk.xyz/e96b5e053204909c5f4be7e7f4ce658a)
-  - **v2ray**: [*https://wLHHxk.absslk.xyz/e96b5e053204909c5f4be7e7f4ce658a*](https://wLHHxk.absslk.xyz/e96b5e053204909c5f4be7e7f4ce658a)
-  - **ios**: [*https://wLHHxk.absslk.xyz/e96b5e053204909c5f4be7e7f4ce658a*](https://wLHHxk.absslk.xyz/e96b5e053204909c5f4be7e7f4ce658a)
+  - **clash**: [*https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213*](https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213)
+  - **v2ray**: [*https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213*](https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213)
+  - **ios**: [*https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213*](https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213)
 - **mksshare**
   - **clash**: [*https://aIALKp.mcsslk.xyz/d2f9ce89d84042ec72e5ac105d111b3b*](https://aIALKp.mcsslk.xyz/d2f9ce89d84042ec72e5ac105d111b3b)
   - **v2ray**: [*https://aIALKp.mcsslk.xyz/d2f9ce89d84042ec72e5ac105d111b3b*](https://aIALKp.mcsslk.xyz/d2f9ce89d84042ec72e5ac105d111b3b)
