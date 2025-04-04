@@ -21,12 +21,12 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-04 17:52:03
+> Updated Time: 2025-04-04 17:57:23
 
 - **tolinkshare2**
-  - **clash**: [*https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a*](https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a)
-  - **v2ray**: [*https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a*](https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a)
-  - **ios**: [*https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a*](https://Xz9MvN.tosslk.xyz/796e8835b839dab3df8b5f0eb18ea11a)
+  - **clash**: [*https://JxiNPm.tosslk.xyz/b70af19f9023e6f7faa1bd25a06b1aef*](https://JxiNPm.tosslk.xyz/b70af19f9023e6f7faa1bd25a06b1aef)
+  - **v2ray**: [*https://JxiNPm.tosslk.xyz/b70af19f9023e6f7faa1bd25a06b1aef*](https://JxiNPm.tosslk.xyz/b70af19f9023e6f7faa1bd25a06b1aef)
+  - **ios**: [*https://JxiNPm.tosslk.xyz/b70af19f9023e6f7faa1bd25a06b1aef*](https://JxiNPm.tosslk.xyz/b70af19f9023e6f7faa1bd25a06b1aef)
 - **abshare**
   - **clash**: [*https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213*](https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213)
   - **v2ray**: [*https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213*](https://q8XRjT.absslk.xyz/0667df7355c8ab0615a38ed293695213)
