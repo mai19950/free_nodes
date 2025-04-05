@@ -21,16 +21,16 @@
 
 ### Origin Links
 
-> Updated Time: 2025-04-05 13:41:22
+> Updated Time: 2025-04-05 13:46:52
 
 - **tolinkshare2**
   - **clash**: [*https://iDPyik.tosslk.xyz/3b1029ade01290073f2bca807dfff6f4*](https://iDPyik.tosslk.xyz/3b1029ade01290073f2bca807dfff6f4)
   - **v2ray**: [*https://iDPyik.tosslk.xyz/3b1029ade01290073f2bca807dfff6f4*](https://iDPyik.tosslk.xyz/3b1029ade01290073f2bca807dfff6f4)
   - **ios**: [*https://iDPyik.tosslk.xyz/3b1029ade01290073f2bca807dfff6f4*](https://iDPyik.tosslk.xyz/3b1029ade01290073f2bca807dfff6f4)
 - **abshare**
-  - **clash**: [*https://tFujk9.absslk.xyz/0afcaf688927c0cdab45bd75eb484620*](https://tFujk9.absslk.xyz/0afcaf688927c0cdab45bd75eb484620)
-  - **v2ray**: [*https://tFujk9.absslk.xyz/0afcaf688927c0cdab45bd75eb484620*](https://tFujk9.absslk.xyz/0afcaf688927c0cdab45bd75eb484620)
-  - **ios**: [*https://tFujk9.absslk.xyz/0afcaf688927c0cdab45bd75eb484620*](https://tFujk9.absslk.xyz/0afcaf688927c0cdab45bd75eb484620)
+  - **clash**: [*https://AFghOM.absslk.xyz/4fddc634075fb14b295c0acddce58041*](https://AFghOM.absslk.xyz/4fddc634075fb14b295c0acddce58041)
+  - **v2ray**: [*https://AFghOM.absslk.xyz/4fddc634075fb14b295c0acddce58041*](https://AFghOM.absslk.xyz/4fddc634075fb14b295c0acddce58041)
+  - **ios**: [*https://AFghOM.absslk.xyz/4fddc634075fb14b295c0acddce58041*](https://AFghOM.absslk.xyz/4fddc634075fb14b295c0acddce58041)
 - **mksshare**
   - **clash**: [*https://sY9bdQ.mcsslk.xyz/582d0e127f60de0c9ff88ea690ee37ec*](https://sY9bdQ.mcsslk.xyz/582d0e127f60de0c9ff88ea690ee37ec)
   - **v2ray**: [*https://sY9bdQ.mcsslk.xyz/582d0e127f60de0c9ff88ea690ee37ec*](https://sY9bdQ.mcsslk.xyz/582d0e127f60de0c9ff88ea690ee37ec)
