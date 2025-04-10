@@ -38,26 +38,35 @@ jobs:
         id: check_updates
         run: |
           updated_submodules=()
-          # submodules=("abshare" "mksshare" "tolinkshare2")
-          submodules=($(cat sites.txt))
-          echo "Loaded submodules: ${submodules[@]}"
-          for sub in "${submodules[@]}"; do
-            cd "$sub"
-            git fetch origin
-            git rev-parse HEAD > "../current.commit.txt"
-            git rev-parse origin/main > "../remote.commit.txt"  # 替换为相应的远程分支
-
-            if [ "$(cat ../current.commit.txt)" != "$(cat ../remote.commit.txt)" ]; then
-              # 获取远程更新
-              git fetch origin
-              # 强制将本地分支重置为远程分支的状态
-              git reset --hard origin/main  # 替换为相应的远程分支
-              echo "$sub has updates."
-              updated_submodules+=($sub)  # 获取子项目名
-            else
-              echo "$sub has no updates"
+          modules_dir="submodules"
+          for sub_dir in "$modules_dir"/*/; do
+            [ -d "$sub_dir" ] || continue
+            sub_name=$(basename "$sub_dir")
+            if [ ! -e "$sub_dir/.git" ]; then
+              echo -e "\033[1;[33mWarning: '$sub_name' is not a git repository. Skipping.\033[0m"
+              continue
             fi
-            cd -
+            echo -e "\033[1;[36mChecking $sub_name...\033[0m"
+            pushd "$sub_dir" > /dev/null
+
+            git fetch origin
+            local_commit=$(git rev-parse HEAD)  
+            # 自动适配 main 或 master
+            if git show-ref --verify --quiet refs/remotes/origin/main; then
+              remote_branch="origin/main"
+            else
+              remote_branch="origin/master"
+            fi
+            remote_commit=$(git rev-parse "$remote_branch")
+
+            if [ "$local_commit" != "$remote_commit" ]; then
+              git reset --hard "$remote_branch"
+              echo -e "\033[1;32m[Updated]\033[0m \033[32m$sub_name has updates.\033[0m"
+              updated_submodules+=("$sub_name")
+            else
+              echo -e "\033[1;90m[Up-to-date]\033[0m \033[90m$sub_name is up to date.\033[0m"
+            fi
+            popd > /dev/null
           done
 
           if [ ${#updated_submodules[@]} -gt 0 ]; then
@@ -67,7 +76,6 @@ jobs:
             echo "update=false" >> $GITHUB_ENV
           fi
           echo "$updated_submodules"
-          rm *.commit.txt
 
       - name: 为每个更新的子模块运行 Python 脚本
         if: env.update == 'true'
@@ -76,14 +84,6 @@ jobs:
             python main.py $submodule  # 将子项目名逐个传递给 Python 脚本
           done
           # python cm_sub.py
-
-      - name: 在 clash_config 资源库中触发操作
-        if: env.update == 'true'
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          repository: mai19950/clash_config
-          event-type: update
 
       - name: 提交和推送更改
         run: |
@@ -105,17 +105,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: 推送到订阅仓库
-        if: env.update == 'true'
-        run: |
-          cd sub
-          git init --initial-branch=main
-          git add .
-          git commit -m "${{ env.COMMIT_MESSAGE }}"
-          git remote add origin "https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/mai19950/free_site.git"
-          git push -u origin main --force
-          rm -rf .git
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     permissions:
       contents: write  # 确保 GitHub Actions 有权限进行推送

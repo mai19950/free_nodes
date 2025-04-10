@@ -5,7 +5,6 @@ import requests
 import base64
 import urllib.parse
 
-import yaml
 from params import *
 from datetime import datetime, timezone, timedelta
 
