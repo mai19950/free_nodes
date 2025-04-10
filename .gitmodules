@@ -1,18 +1,19 @@
-[submodule "mksshare"]
-	path = mksshare
-	url = https://github.com/mksshare/mksshare.github.io.git
-[submodule "tolinkshare2"]
-	path = tolinkshare2
-	url = https://github.com/tolinkshare2/tolinkshare2.github.io.git
-[submodule "abshare"]
-	path = abshare
+
+[submodule "submodules/abshare"]
+	path = submodules/abshare
 	url = https://github.com/abshare/abshare.github.io.git
-[submodule "toshare5"]
-	path = toshare5
-	url = https://github.com/toshare5/toshare5.github.io.git
-[submodule "mkshare3"]
-	path = mkshare3
-	url = https://github.com/mkshare3/mkshare3.github.io.git
-[submodule "abshare3"]
-	path = abshare3
+[submodule "submodules/abshare3"]
+	path = submodules/abshare3
 	url = https://github.com/abshare3/abshare3.github.io.git
+[submodule "submodules/mkshare3"]
+	path = submodules/mkshare3
+	url = https://github.com/mkshare3/mkshare3.github.io.git
+[submodule "submodules/mksshare"]
+	path = submodules/mksshare
+	url = https://github.com/mksshare/mksshare.github.io.git
+[submodule "submodules/tolinkshare2"]
+	path = submodules/tolinkshare2
+	url = https://github.com/tolinkshare2/tolinkshare2.github.io.git
+[submodule "submodules/toshare5"]
+	path = submodules/toshare5
+	url = https://github.com/toshare5/toshare5.github.io.git

@@ -1,10 +1,13 @@
 # $modules = @("abshare", "mksshare", "tolinkshare2")
-$modules = (Get-Content "./sites.txt" -Raw) -split ' '
+$modules_dir = "./submodules"
 $updated_submodules=@()
 
-foreach ($sub in $modules) {
-  Push-location "$sub"
-  write-host "check $sub" -ForegroundColor "Cyan"
+foreach ($sub in (Get-ChildItem $modules_dir -Directory)) {
+  if (-not (test-path "$($sub.fullname)/.git")) {
+    continue
+  }
+  Push-location $sub.fullname
+  write-host "check $($sub.name)" -ForegroundColor "Cyan"
   # 获取本地和远程的commit ID
   git fetch
   $localCommit = git rev-parse HEAD
@@ -13,8 +16,8 @@ foreach ($sub in $modules) {
   if ($localCommit -ne $remoteCommit) {
     git fetch origin
     git reset --hard origin/main
-    Write-Host "$sub has updates." -ForegroundColor "Green"
-    $updated_submodules += $sub
+    Write-Host "$($sub.Name) has updates." -ForegroundColor "Green"
+    $updated_submodules += $sub.name
   }
   pop-location
 }

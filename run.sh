@@ -1,31 +1,46 @@
 #!/bin/bash
 
-# modules=("abshare" "mksshare" "tolinkshare2")
-modules=($(cat "sites.txt"))
-echo "${modules[@]}"
+set -e  # 一旦出错就退出
+set -u  # 变量未定义时退出
+
+modules_dir="submodules"
 updated_submodules=()
 
-for sub in "${modules[@]}"; do
-  # 进入子仓库目录
-  cd "$sub.github.io" || continue
-  echo "check $sub"
-  
-  # 获取本地和远程的 commit ID
-  git fetch
-  localCommit=$(git rev-parse HEAD)
-  remoteCommit=$(git rev-parse origin/main)
-  
-  # 比较两个 commit
-  if [ "$localCommit" != "$remoteCommit" ]; then
-    git fetch origin
-    git reset --hard origin/main
-    echo "$sub has updates."
-    updated_submodules+=("$sub")
+# 遍历每一个子模块目录
+for sub_dir in "$modules_dir"/*/; do
+  # 如果不是目录就跳过
+  [ -d "$sub_dir" ] || continue
+
+  sub_name=$(basename "$sub_dir")
+  if [ ! -e "$sub_dir/.git" ]; then
+    echo -e "\033[1;[33mWarning: '$sub_name' is not a git repository. Skipping.\033[0m"
+    continue
+  fi
+  echo -e "\033[1;[36mChecking $sub_name...\033[0m"
+
+  pushd "$sub_dir" > /dev/null
+
+  git fetch origin
+  local_commit=$(git rev-parse HEAD)  
+  # 自动适配 main 或 master
+  if git show-ref --verify --quiet refs/remotes/origin/main; then
+    remote_branch="origin/main"
+  else
+    remote_branch="origin/master"
+  fi
+  remote_commit=$(git rev-parse "$remote_branch")
+
+  if [ "$local_commit" != "$remote_commit" ]; then
+    git reset --hard "$remote_branch"
+    echo -e "\033[1;32m[Updated]\033[0m \033[32m$sub_name has updates.\033[0m"
+    updated_submodules+=("$sub_name")
+  else
+    echo -e "\033[1;90m[Up-to-date]\033[0m \033[90m$sub_name is up to date.\033[0m"
   fi
 
-  # 返回上一层目录
-  cd ..
+  popd > /dev/null
 done
+
 
 # 检查是否有更新的子模块
 if [ ${#updated_submodules[@]} -gt 0 ]; then

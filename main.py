@@ -4,12 +4,14 @@ import time
 import requests
 import base64
 import urllib.parse
+
+import yaml
 from params import *
 from datetime import datetime, timezone, timedelta
 
 
 class Main:
-  paths = module_sites
+  paths = list(module_sites)
 
   def __init__(self, type: KeyType = None) -> None:
     self.dirs = dir_list
@@ -69,11 +71,12 @@ class Main:
     try:
       url = self.replace_url(url)
       with requests.get(url, headers=headers, timeout=10) as res:
-        print(res.status_code, url)
+        print("request base64", res.status_code, url)
         if res.status_code < 300:
           os.makedirs(key, exist_ok=True)
           with open(self.join_path(f"{key}/{self.submodule_path}.{key}"), mode="w+", encoding="utf-8") as f:
             f.write(self.parse_origin(res.text))
+      self.get_clash_nodes(url)
     except:
       self.get_item_link(key, url)
 
@@ -83,12 +86,43 @@ class Main:
     if self.type:
       self.get_item_link(self.type, self.sub_links[self.type])
       return
-
     for key, url in items:
       self.get_item_link(key, url)
 
+  def get_clash_nodes(self, url: str):
+    try:
+      with requests.get(url, headers=clash_headers, timeout=10) as res:
+        print("request clash:", res.status_code, url)
+        if res.status_code < 300:
+          os.makedirs("clash", exist_ok=True)
+          with open(self.join_path(f"clash/{self.submodule_path}.yaml"), mode="w+", encoding="utf-8") as f:
+            f.write(self.filter_clash_nodes(res.text))
+            # f.write(res.text)
+            # self.filter_clash_nodes(res.text)
+    except:
+      self.get_clash_nodes(url)
+
+  def filter_clash_nodes(self, text: str) -> str:
+    lines = text.split('\n')
+    replaced_lines = []
+    for i in range(len(lines)):
+      line = re.sub(r"\n+$", "", lines[i])
+      match_reg = re.match(r'.*?\-\s+\{\s+name:\s*(.+?),.*?password.*?\}.*', line)
+      if not match_reg: 
+        replaced_lines.append(line)
+        continue 
+      name = match_reg.group(1)
+      if '剩余流量' in name:
+        replaced_lines.append(re.sub('剩余流量', '流量_' + self.submodule_path, line))
+      elif '|' in name:
+        replaced_name = "'{}_{}'".format(re.sub(r'[\s\']', '', name.split('|')[0]), self.submodule_path) 
+        # print(replaced_name)
+        replaced_lines.append(re.sub(r'(name:\s*).+?,', r'\1' + replaced_name + ',', line))
+    return '\n'.join(replaced_lines)
+      # print(replaced_lines[-1])
+
   def set_links(self):
-    with open(f"{self.submodule_path}/README.md", mode="r", encoding="utf-8") as f:
+    with open(f"{modules_dir}/{self.submodule_path}/README.md", mode="r", encoding="utf-8") as f:
       text = f.read()
       res = re.search(
         r".*?Clash订阅.*?(?P<clash>http.*?)\n"
