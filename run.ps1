@@ -1,3 +1,5 @@
+Param([switch]$commit)
+
 # $modules = @("abshare", "mksshare", "tolinkshare2")
 $modules_dir = "./submodules"
 $updated_submodules=@()
@@ -22,7 +24,7 @@ foreach ($sub in (Get-ChildItem $modules_dir -Directory)) {
   pop-location
 }
 
-if ($updated_submodules.count -gt 0) {
+if ($commit -and ($updated_submodules.count -gt 0)) {
   foreach ($sub in $updated_submodules) {
     Write-Host "python main.py $sub" -ForegroundColor "yellow"
     python main.py $sub
