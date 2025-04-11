@@ -44,7 +44,7 @@ dns:
 #========= 建立锚点 =========#
 
 # 策略组引用
-node_remakes: &r1 { proxies: ['流量_tolinkshare2：2.16 GB', '🇭🇰香港01_tolinkshare2', '🇭🇰香港02_tolinkshare2', '🇭🇰香港03_tolinkshare2', '🇹🇼台湾01_tolinkshare2', '🇹🇼台湾02_tolinkshare2', '🇹🇼台湾03_tolinkshare2', '🇯🇵日本01_tolinkshare2', '🇯🇵日本02_tolinkshare2', '🇯🇵日本03_tolinkshare2', '🇸🇬新加坡01_tolinkshare2', '🇸🇬新加坡02_tolinkshare2', '🇸🇬新加坡03_tolinkshare2', '🇰🇷韩国01_tolinkshare2', '🇰🇷韩国02_tolinkshare2', '🇵🇭菲律宾01_tolinkshare2', '🇺🇸美国01_tolinkshare2', '🇺🇸美国02_tolinkshare2', '🇺🇸美国03_tolinkshare2', '🇬🇧英国01_tolinkshare2', '🇪🇸西班牙01_tolinkshare2', '🇲🇾马来西亚01_tolinkshare2', '🇲🇾马来西亚02_tolinkshare2', '🇹🇭泰国01_tolinkshare2', '🇮🇳印度01_tolinkshare2', '🇦🇺澳大利亚01_tolinkshare2', '🇨🇦加拿大01_tolinkshare2', '🇩🇪德国01_tolinkshare2', '🇷🇺俄罗斯01_tolinkshare2', '🇹🇷土耳其01_tolinkshare2', '🇺🇦乌克兰01_tolinkshare2', '🇻🇳越南01_tolinkshare2'] }
+node_remakes: &r1 { proxies: ['流量_tolinkshare2：4.46 GB', '🇭🇰香港01_tolinkshare2', '🇭🇰香港02_tolinkshare2', '🇭🇰香港03_tolinkshare2', '🇹🇼台湾01_tolinkshare2', '🇹🇼台湾02_tolinkshare2', '🇹🇼台湾03_tolinkshare2', '🇯🇵日本01_tolinkshare2', '🇯🇵日本02_tolinkshare2', '🇯🇵日本03_tolinkshare2', '🇸🇬新加坡01_tolinkshare2', '🇸🇬新加坡02_tolinkshare2', '🇸🇬新加坡03_tolinkshare2', '🇰🇷韩国01_tolinkshare2', '🇰🇷韩国02_tolinkshare2', '🇵🇭菲律宾01_tolinkshare2', '🇺🇸美国01_tolinkshare2', '🇺🇸美国02_tolinkshare2', '🇺🇸美国03_tolinkshare2', '🇬🇧英国01_tolinkshare2', '🇪🇸西班牙01_tolinkshare2', '🇲🇾马来西亚01_tolinkshare2', '🇲🇾马来西亚02_tolinkshare2', '🇹🇭泰国01_tolinkshare2', '🇮🇳印度01_tolinkshare2', '🇦🇺澳大利亚01_tolinkshare2', '🇨🇦加拿大01_tolinkshare2', '🇩🇪德国01_tolinkshare2', '🇷🇺俄罗斯01_tolinkshare2', '🇹🇷土耳其01_tolinkshare2', '🇺🇦乌克兰01_tolinkshare2', '🇻🇳越南01_tolinkshare2'] }
 pr:   &a3 {type: select,   proxies: [♻️ 自动选择, 🚀 手动切换, 🇭🇰 香港节点, 🇯🇵 日本节点, 🇺🇲 美国节点, 🇨🇳 台湾节点, 🇸🇬 狮城节点, DIRECT] }
 p:    &a1 {type: http,     interval: 86400,  health-check: {enable: true, url: http://www.gstatic.com/generate_204, interval: 300} }
 auto: &a4 {type: url-test, lazy: true,  url: http://www.gstatic.com/generate_204, interval: 300, <<: *r1 }
@@ -62,38 +62,38 @@ proxy-providers: null
   #   path: ./proxy_providers/tmp.yaml
     
 proxies:
-  - { name: '流量_tolinkshare2：2.16 GB', type: ss, server: free.6vczxw.xyz, port: 41141, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇭🇰香港01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41141, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇭🇰香港02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41143, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇭🇰香港03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41145, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇹🇼台湾01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41241, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇹🇼台湾02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41243, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇹🇼台湾03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41245, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇯🇵日本01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41111, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇯🇵日本02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41113, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇯🇵日本03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41115, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇸🇬新加坡01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41171, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇸🇬新加坡02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41173, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇸🇬新加坡03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41175, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇰🇷韩国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41311, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇰🇷韩国02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41313, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇵🇭菲律宾01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41341, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇺🇸美国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41211, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇺🇸美国02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41213, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇺🇸美国03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41215, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇬🇧英国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41271, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇪🇸西班牙01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41741, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇲🇾马来西亚01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41721, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇲🇾马来西亚02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41722, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇹🇭泰国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41731, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇮🇳印度01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41371, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇦🇺澳大利亚01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41411, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇨🇦加拿大01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41441, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇩🇪德国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41471, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇷🇺俄罗斯01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41511, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇹🇷土耳其01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41571, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇺🇦乌克兰01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41611, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
-  - { name: '🇻🇳越南01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41641, cipher: chacha20-ietf-poly1305, password: 3c10d4a4-620e-4f42-a775-7f31d346c9dd, udp: true }
+  - { name: '流量_tolinkshare2：4.46 GB', type: ss, server: free.6vczxw.xyz, port: 41141, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇭🇰香港01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41141, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇭🇰香港02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41143, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇭🇰香港03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41145, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇹🇼台湾01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41241, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇹🇼台湾02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41243, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇹🇼台湾03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41245, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇯🇵日本01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41111, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇯🇵日本02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41113, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇯🇵日本03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41115, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇸🇬新加坡01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41171, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇸🇬新加坡02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41173, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇸🇬新加坡03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41175, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇰🇷韩国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41311, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇰🇷韩国02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41313, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇵🇭菲律宾01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41341, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇺🇸美国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41211, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇺🇸美国02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41213, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇺🇸美国03_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41215, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇬🇧英国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41271, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇪🇸西班牙01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41741, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇲🇾马来西亚01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41721, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇲🇾马来西亚02_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41722, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇹🇭泰国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41731, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇮🇳印度01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41371, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇦🇺澳大利亚01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41411, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇨🇦加拿大01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41441, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇩🇪德国01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41471, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇷🇺俄罗斯01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41511, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇹🇷土耳其01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41571, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇺🇦乌克兰01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41611, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
+  - { name: '🇻🇳越南01_tolinkshare2', type: ss, server: free.6vczxw.xyz, port: 41641, cipher: chacha20-ietf-poly1305, password: 7b4dfb6e-299e-4550-8904-3b02ac2b4328, udp: true }
 proxy-groups:
 #分流分组
   - {name: 🚀 手动切换, <<: *a2}
